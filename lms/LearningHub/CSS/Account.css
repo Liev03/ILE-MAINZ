@@ -1,0 +1,68 @@
+﻿
+.GrandHolder {
+    border: solid;
+    border-color: white;
+    color: white;
+    width: 90%;
+    margin: auto;
+    margin-top: 40px;
+    background-image: url('/Images/novahigh.png');
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.TopPart {
+    display: flex;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    justify-content: space-between;
+}
+
+.InfoHolder,
+.ContactHolder {
+    width: 40%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    gap: 10px;
+    padding-top: 10px;
+}
+
+    .ContactHolder h2 {
+        margin-bottom: 0;
+    }
+
+.ImagePF {
+    display: block;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.BottomPart {
+    padding: 20px;
+    border: solid;
+    border-color: white;
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: 5px 0;
+    text-align: center;
+    border-radius: 10px;
+}
+
+#editBioForm {
+    background: white;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.Logout {
+    padding: 20px;
+}
+
+.blog {
+    width: 100%;
+    height: 50px;
+    border-radius: 5px;
+}

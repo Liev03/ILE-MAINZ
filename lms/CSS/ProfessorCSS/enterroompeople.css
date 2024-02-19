@@ -1,0 +1,71 @@
+﻿
+.studentlist {
+    width: 100%;
+    height: calc(100% - 60px);
+    overflow-y: auto;
+    margin-top: 10px;
+}
+
+    .studentlist::-webkit-scrollbar {
+        width: 5px;
+    }
+
+    .studentlist::-webkit-scrollbar-thumb {
+        background-color: #eb4d4d;
+        border-radius: 6px;
+    }
+
+
+    .studentlist::-webkit-scrollbar-track {
+        background-color: transparent;
+    }
+
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    table td, table th {
+        border: 1px solid #ddd;
+        padding: 15px;
+    }
+
+    table tr:nth-child(even) {
+        background-color: #f2f2f2;
+        transition: 0.3s all ease;
+    }
+
+    table tr:hover {
+        background-color: #f57f7f;
+        color: #fff;
+    }
+
+    table th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #eb4d4d;
+        color: white;
+        text-align: center;
+    }
+
+tbody tr td a {
+    padding: 3px;
+    border: 1px solid black;
+    display: flex;
+    color: #fff;
+    background-color: #eb4d4d;
+    text-align: center;
+    border-color: transparent;
+    border-radius: 10px;
+}
+
+.hide-column {
+    display: none;
+}
+
+.hide {
+    width: 520px;
+}

@@ -1,0 +1,73 @@
+﻿
+
+.materials-box {
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    transition: box-shadow 0.3s ease;
+    
+}
+
+.materials-box .title{
+    height:40px;
+    width:100%;
+    display:flex;
+    align-items:center;
+    padding:0 15px;
+    text-transform:capitalize;
+   background-color: #f57f7f;
+    
+}
+.materials-box .title h2{
+    font-family:'Times New Roman';
+    font-size:25px;
+     color:#fff;
+}
+.materials-box .date-points{
+    height:30px;
+    display:flex;
+    border-bottom:1px solid #ddd;
+}
+.materials-box .date-points .points{
+    flex:1;
+    height:100%;
+    display:flex;   
+    align-items:center;
+    padding:0 25px;
+}
+.materials-box .date-points .date{
+     flex:1;
+    height:100%;
+    display:flex;   
+    align-items:center;
+    justify-content:flex-end;
+    padding:0 25px;
+}
+
+.materials-box .instruction{
+    min-height:100px;
+    width:100%;
+    max-height:auto;
+    padding:20px;
+}
+
+.file-link {
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+    .file-link:hover {
+        background-color: #0056b3;
+    }
+
+class-body {
+    height: calc(100% - 60px);
+    border:1px solid red;
+}

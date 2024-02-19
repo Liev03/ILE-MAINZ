@@ -1,0 +1,1324 @@
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\lms.dll.config
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\lms.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\lms.pdb
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\csc.exe
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\csc.exe.config
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\csc.rsp
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\csi.exe
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\csi.exe.config
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\csi.rsp
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.AppContext.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Console.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Net.Http.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\vbc.exe
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\vbc.exe.config
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\vbc.rsp
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\obj\Debug\lms.csproj.AssemblyReference.cache
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\obj\Debug\lms.csproj.CoreCompileInputs.cache
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\obj\Debug\lms.csproj.CopyComplete
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\obj\Debug\lms.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\obj\Debug\lms.pdb
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\obj\Debug\lms.Properties.Resources.resources
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\obj\Debug\lms.csproj.GenerateResource.cache
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\lms.dll.config
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\lms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\lms.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\csc.exe
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\csc.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\csc.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\csi.exe
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\csi.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\csi.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.AppContext.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Console.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.IO.Compression.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Net.Http.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.ValueTuple.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\vbc.exe
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\vbc.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\vbc.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\VBCSCompiler.exe
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\obj\Debug\lms.csproj.AssemblyReference.cache
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\obj\Debug\lms.Properties.Resources.resources
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\obj\Debug\lms.csproj.GenerateResource.cache
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\obj\Debug\lms.csproj.CoreCompileInputs.cache
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\obj\Debug\lms.csproj.CopyComplete
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\obj\Debug\lms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\obj\Debug\lms.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\BouncyCastle.Crypto.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\Google.Protobuf.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\K4os.Compression.LZ4.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\K4os.Hash.xxHash.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\MySql.Data.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.Buffers.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.IO.Pipelines.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.Memory.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.Numerics.Vectors.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\ZstdSharp.dll
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\BouncyCastle.Crypto.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\Google.Protobuf.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\Google.Protobuf.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\K4os.Compression.LZ4.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\K4os.Hash.xxHash.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\MySql.Data.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.Buffers.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.IO.Pipelines.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.Memory.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.Numerics.Vectors.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jonne\OneDrive\Documents\Projects\SIA\lms\lms\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\BouncyCastle.Crypto.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\Google.Protobuf.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\K4os.Compression.LZ4.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\K4os.Hash.xxHash.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\MySql.Data.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.Buffers.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.IO.Pipelines.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.Memory.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.Numerics.Vectors.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\ZstdSharp.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\BouncyCastle.Crypto.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\Google.Protobuf.pdb
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\Google.Protobuf.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\K4os.Compression.LZ4.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\K4os.Hash.xxHash.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\MySql.Data.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.Buffers.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.IO.Pipelines.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.Memory.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.Numerics.Vectors.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\lms\lms\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\lms.dll.config
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\lms.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\lms.pdb
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\BouncyCastle.Crypto.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\Google.Protobuf.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\K4os.Compression.LZ4.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\K4os.Hash.xxHash.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\MySql.Data.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.Buffers.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.IO.Pipelines.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.Memory.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.Numerics.Vectors.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\ZstdSharp.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\BouncyCastle.Crypto.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\Google.Protobuf.pdb
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\Google.Protobuf.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\K4os.Compression.LZ4.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\K4os.Hash.xxHash.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\MySql.Data.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.Buffers.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.IO.Pipelines.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.Memory.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.Numerics.Vectors.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\obj\Debug\lms.csproj.AssemblyReference.cache
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\obj\Debug\lms.Properties.Resources.resources
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\obj\Debug\lms.csproj.GenerateResource.cache
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\obj\Debug\lms.csproj.CoreCompileInputs.cache
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\obj\Debug\lms.csproj.CopyComplete
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\obj\Debug\lms.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\obj\Debug\lms.pdb
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\csc.exe
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\csc.exe.config
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\csc.rsp
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\csi.exe
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\csi.exe.config
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\csi.rsp
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.AppContext.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Console.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Net.Http.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\vbc.exe
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\vbc.exe.config
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\vbc.rsp
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS_PROJECT LEGIT\lms\lms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\lms.dll.config
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\lms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\lms.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\csc.exe
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\csc.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\csc.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\csi.exe
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\csi.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\csi.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.AppContext.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Console.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.IO.Compression.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Net.Http.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.ValueTuple.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\vbc.exe
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\vbc.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\vbc.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\VBCSCompiler.exe
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\BouncyCastle.Crypto.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\Google.Protobuf.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\K4os.Compression.LZ4.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\K4os.Hash.xxHash.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\MySql.Data.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.Buffers.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.IO.Pipelines.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.Memory.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.Numerics.Vectors.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\ZstdSharp.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\BouncyCastle.Crypto.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\Google.Protobuf.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\Google.Protobuf.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\K4os.Compression.LZ4.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\K4os.Hash.xxHash.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\MySql.Data.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.Buffers.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.IO.Pipelines.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.Memory.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.Numerics.Vectors.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\obj\Debug\lms.csproj.AssemblyReference.cache
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\obj\Debug\lms.Properties.Resources.resources
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\obj\Debug\lms.csproj.GenerateResource.cache
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\obj\Debug\lms.csproj.CoreCompileInputs.cache
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\obj\Debug\lms.csproj.CopyComplete
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\obj\Debug\lms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\obj\Debug\lms.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\lms\lms\bin\AjaxControlToolkit.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\lms.dll.config
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\lms.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\lms.pdb
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\BouncyCastle.Crypto.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Google.Protobuf.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\K4os.Compression.LZ4.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\K4os.Hash.xxHash.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\MySql.Data.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Buffers.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.IO.Pipelines.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Memory.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Numerics.Vectors.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\ZstdSharp.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\BouncyCastle.Crypto.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Google.Protobuf.pdb
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Google.Protobuf.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\K4os.Compression.LZ4.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\K4os.Hash.xxHash.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\MySql.Data.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Buffers.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.IO.Pipelines.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Memory.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Numerics.Vectors.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.csproj.AssemblyReference.cache
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.Properties.Resources.resources
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.csproj.GenerateResource.cache
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.csproj.CoreCompileInputs.cache
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.csproj.CopyComplete
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.pdb
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\csc.exe
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\csc.exe.config
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\csc.rsp
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\csi.exe
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\csi.exe.config
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\csi.rsp
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.AppContext.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Console.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.IO.Compression.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Net.Http.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Net.Sockets.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.ValueTuple.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Xml.XPath.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\vbc.exe
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\vbc.exe.config
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\vbc.rsp
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\VBCSCompiler.exe
+C:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\VBCSCompiler.exe.config
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\lms.dll.config
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\lms.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\lms.pdb
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\csc.exe
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\csc.exe.config
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\csc.rsp
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\csi.exe
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\csi.exe.config
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\csi.rsp
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.AppContext.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Collections.Immutable.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Console.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Globalization.Calendars.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.IO.Compression.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.IO.FileSystem.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Net.Http.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Net.Sockets.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Reflection.Metadata.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.ValueTuple.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Xml.XPath.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\vbc.exe
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\vbc.exe.config
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\vbc.rsp
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\VBCSCompiler.exe
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\roslyn\VBCSCompiler.exe.config
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\BouncyCastle.Crypto.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Google.Protobuf.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\K4os.Compression.LZ4.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\K4os.Compression.LZ4.Streams.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\K4os.Hash.xxHash.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\MySql.Data.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Buffers.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Configuration.ConfigurationManager.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.IO.Pipelines.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Memory.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Numerics.Vectors.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Threading.Tasks.Extensions.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\ZstdSharp.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\BouncyCastle.Crypto.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Google.Protobuf.pdb
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Google.Protobuf.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\K4os.Compression.LZ4.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\K4os.Compression.LZ4.Streams.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\K4os.Hash.xxHash.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\MySql.Data.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Buffers.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.IO.Pipelines.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Memory.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Numerics.Vectors.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\System.Threading.Tasks.Extensions.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.csproj.AssemblyReference.cache
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.Properties.Resources.resources
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.csproj.GenerateResource.cache
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.csproj.CoreCompileInputs.cache
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.csproj.CopyComplete
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LMS-LATEST\lms\lms\obj\Debug\lms.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\lms.dll.config
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\lms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\lms.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\csc.exe
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\csc.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\csc.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\csi.exe
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\csi.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\csi.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.AppContext.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Console.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.IO.Compression.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Net.Http.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.ValueTuple.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\vbc.exe
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\vbc.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\vbc.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\VBCSCompiler.exe
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\BouncyCastle.Crypto.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\Google.Protobuf.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\K4os.Compression.LZ4.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\K4os.Hash.xxHash.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\MySql.Data.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.Buffers.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.IO.Pipelines.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.Memory.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.Numerics.Vectors.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\ZstdSharp.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\BouncyCastle.Crypto.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\Google.Protobuf.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\Google.Protobuf.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\K4os.Compression.LZ4.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\K4os.Hash.xxHash.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\MySql.Data.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.Buffers.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.IO.Pipelines.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.Memory.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.Numerics.Vectors.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\obj\Debug\lms.csproj.AssemblyReference.cache
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\obj\Debug\lms.Properties.Resources.resources
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\obj\Debug\lms.csproj.GenerateResource.cache
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\obj\Debug\lms.csproj.CoreCompileInputs.cache
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\obj\Debug\lms.csproj.CopyComplete
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\obj\Debug\lms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsfinal\lms\lms\obj\Debug\lms.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\lms.dll.config
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\lms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\lms.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\csc.exe
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\csc.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\csc.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\csi.exe
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\csi.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\csi.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.AppContext.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Console.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.IO.Compression.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Net.Http.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.ValueTuple.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\vbc.exe
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\vbc.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\vbc.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\VBCSCompiler.exe
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\BouncyCastle.Crypto.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\Google.Protobuf.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\K4os.Compression.LZ4.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\K4os.Hash.xxHash.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\MySql.Data.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.Buffers.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.IO.Pipelines.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.Memory.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.Numerics.Vectors.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\ZstdSharp.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\BouncyCastle.Crypto.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\Google.Protobuf.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\Google.Protobuf.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\K4os.Compression.LZ4.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\K4os.Hash.xxHash.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\MySql.Data.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.Buffers.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.IO.Pipelines.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.Memory.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.Numerics.Vectors.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\obj\Debug\lms.csproj.AssemblyReference.cache
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\obj\Debug\lms.Properties.Resources.resources
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\obj\Debug\lms.csproj.GenerateResource.cache
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\obj\Debug\lms.csproj.CoreCompileInputs.cache
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\obj\Debug\lms.csproj.CopyComplete
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\obj\Debug\lms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\lmsss\lms\lms\obj\Debug\lms.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\lms.dll.config
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\lms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\lms.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\csc.exe
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\csc.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\csc.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\csi.exe
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\csi.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\csi.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.AppContext.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Console.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.IO.Compression.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Net.Http.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.ValueTuple.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\vbc.exe
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\vbc.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\vbc.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\VBCSCompiler.exe
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\AjaxControlToolkit.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\BouncyCastle.Crypto.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\Google.Protobuf.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\K4os.Compression.LZ4.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\K4os.Hash.xxHash.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\MySql.Data.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.Buffers.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.IO.Pipelines.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.Memory.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.Numerics.Vectors.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\ZstdSharp.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\BouncyCastle.Crypto.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\Google.Protobuf.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\Google.Protobuf.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\K4os.Compression.LZ4.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\K4os.Hash.xxHash.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\MySql.Data.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.Buffers.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.IO.Pipelines.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.Memory.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.Numerics.Vectors.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\obj\Debug\lms.csproj.AssemblyReference.cache
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\obj\Debug\lms.Properties.Resources.resources
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\obj\Debug\lms.csproj.GenerateResource.cache
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\obj\Debug\lms.csproj.CoreCompileInputs.cache
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\obj\Debug\lms.csproj.CopyComplete
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\obj\Debug\lms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\NHS\lms\obj\Debug\lms.pdb
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\lms.dll.config
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\lms.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\lms.pdb
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\csc.exe
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\csc.exe.config
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\csc.rsp
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\csi.exe
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\csi.exe.config
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\csi.rsp
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\Microsoft.Managed.Core.targets
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.AppContext.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Collections.Immutable.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Console.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Globalization.Calendars.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.IO.Compression.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.IO.FileSystem.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Net.Http.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Net.Sockets.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Reflection.Metadata.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.ValueTuple.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Xml.XmlDocument.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Xml.XPath.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\vbc.exe
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\vbc.exe.config
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\vbc.rsp
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\VBCSCompiler.exe
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\roslyn\VBCSCompiler.exe.config
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\BouncyCastle.Crypto.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\Google.Protobuf.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\K4os.Compression.LZ4.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\K4os.Compression.LZ4.Streams.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\K4os.Hash.xxHash.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\Microsoft.Bcl.AsyncInterfaces.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\MySql.Data.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.Buffers.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.Configuration.ConfigurationManager.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.Diagnostics.DiagnosticSource.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.IO.Pipelines.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.Memory.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.Numerics.Vectors.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.Threading.Tasks.Extensions.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\ZstdSharp.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\BouncyCastle.Crypto.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\Google.Protobuf.pdb
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\Google.Protobuf.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\K4os.Compression.LZ4.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\K4os.Compression.LZ4.Streams.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\K4os.Hash.xxHash.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\Microsoft.Bcl.AsyncInterfaces.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\MySql.Data.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.Buffers.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.Diagnostics.DiagnosticSource.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.IO.Pipelines.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.Memory.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.Numerics.Vectors.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\System.Threading.Tasks.Extensions.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\obj\Debug\lms.csproj.AssemblyReference.cache
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\obj\Debug\lms.Properties.Resources.resources
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\obj\Debug\lms.csproj.GenerateResource.cache
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\obj\Debug\lms.csproj.CoreCompileInputs.cache
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\obj\Debug\lms.csproj.CopyComplete
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\obj\Debug\lms.dll
+D:\OneDrive - Polytechnic University of the Philippines\Desktop\NHS\lms\obj\Debug\lms.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\lms.dll.config
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\lms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\lms.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\csc.exe
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\csc.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\csc.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\csi.exe
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\csi.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\csi.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.AppContext.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Console.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.IO.Compression.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Net.Http.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Net.Sockets.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.ValueTuple.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Xml.XPath.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\vbc.exe
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\vbc.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\vbc.rsp
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\VBCSCompiler.exe
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\BouncyCastle.Crypto.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Google.Protobuf.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\K4os.Compression.LZ4.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\K4os.Hash.xxHash.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\MySql.Data.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.Buffers.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.IO.Pipelines.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.Memory.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.Numerics.Vectors.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\ZstdSharp.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\BouncyCastle.Crypto.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Google.Protobuf.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Google.Protobuf.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\K4os.Compression.LZ4.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\K4os.Hash.xxHash.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\MySql.Data.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.Buffers.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.IO.Pipelines.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.Memory.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.Numerics.Vectors.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\obj\Debug\lms.csproj.AssemblyReference.cache
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\obj\Debug\lms.Properties.Resources.resources
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\obj\Debug\lms.csproj.GenerateResource.cache
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\obj\Debug\lms.csproj.CoreCompileInputs.cache
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\obj\Debug\lms.csproj.CopyComplete
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\obj\Debug\lms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\obj\Debug\lms.pdb
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\lms.dll.config
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\lms.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\lms.pdb
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\csc.exe
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\csc.exe.config
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\csc.rsp
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\csi.exe
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\csi.exe.config
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\csi.rsp
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\Microsoft.Managed.Core.targets
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.AppContext.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Collections.Immutable.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Console.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Globalization.Calendars.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.IO.Compression.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.IO.Compression.ZipFile.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.IO.FileSystem.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Net.Http.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Net.Sockets.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Reflection.Metadata.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Threading.Tasks.Extensions.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.ValueTuple.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Xml.XmlDocument.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Xml.XPath.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\vbc.exe
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\vbc.exe.config
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\vbc.rsp
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\VBCSCompiler.exe
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\roslyn\VBCSCompiler.exe.config
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\BouncyCastle.Crypto.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\BouncyCastle.Cryptography.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Google.Protobuf.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.barcodes.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.bouncy-castle-adapter.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.bouncy-castle-connector.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.commons.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.forms.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.io.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.kernel.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.layout.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.pdfa.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.sign.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.styledxmlparser.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.svg.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\K4os.Compression.LZ4.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\K4os.Compression.LZ4.Streams.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\K4os.Hash.xxHash.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Extensions.DependencyInjection.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Extensions.Logging.Abstractions.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Extensions.Logging.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Extensions.Options.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Extensions.Primitives.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\MySql.Data.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Newtonsoft.Json.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.Buffers.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.Configuration.ConfigurationManager.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.Diagnostics.DiagnosticSource.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.IO.Pipelines.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.Memory.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.Numerics.Vectors.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.Runtime.CompilerServices.Unsafe.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.Threading.Tasks.Extensions.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.ValueTuple.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\ZstdSharp.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\BouncyCastle.Crypto.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\BouncyCastle.Cryptography.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Google.Protobuf.pdb
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Google.Protobuf.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.barcodes.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.bouncy-castle-adapter.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.bouncy-castle-connector.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.commons.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.forms.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.io.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.kernel.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.layout.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.pdfa.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.sign.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.styledxmlparser.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\itext.svg.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\K4os.Compression.LZ4.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\K4os.Compression.LZ4.Streams.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\K4os.Hash.xxHash.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Extensions.DependencyInjection.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Extensions.Logging.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Extensions.Logging.Abstractions.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Extensions.Options.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.Extensions.Primitives.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\MySql.Data.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Newtonsoft.Json.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.Buffers.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.Diagnostics.DiagnosticSource.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.IO.Pipelines.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.Memory.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.Numerics.Vectors.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.Runtime.CompilerServices.Unsafe.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.Threading.Tasks.Extensions.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\System.ValueTuple.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\obj\Debug\lms.csproj.AssemblyReference.cache
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\obj\Debug\lms.Properties.Resources.resources
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\obj\Debug\lms.csproj.GenerateResource.cache
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\obj\Debug\lms.csproj.CoreCompileInputs.cache
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\obj\Debug\lms.csproj.CopyComplete
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\obj\Debug\lms.dll
+F:\Users\Gervic\Documents\Visual Studio 2022\LEARNING HUB SYSTEM\NHS\lms\obj\Debug\lms.pdb
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\BouncyCastle.Cryptography.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.barcodes.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.bouncy-castle-adapter.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.bouncy-castle-connector.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.commons.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.forms.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.io.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.kernel.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.layout.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.pdfa.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.sign.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.styledxmlparser.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.svg.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Extensions.Logging.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Extensions.Options.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Newtonsoft.Json.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.ValueTuple.dll
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\BouncyCastle.Cryptography.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.barcodes.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.bouncy-castle-adapter.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.bouncy-castle-connector.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.commons.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.forms.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.io.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.kernel.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.layout.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.pdfa.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.sign.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.styledxmlparser.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\itext.svg.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Extensions.Logging.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Extensions.Options.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\Newtonsoft.Json.xml
+C:\Users\jonne\OneDrive\Documents\Projects\2\NHS\lms\bin\System.ValueTuple.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\lms.dll.config
+C:\Users\uriel\source\repos\NHS\lms\bin\lms.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\lms.pdb
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\csc.exe
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\csc.exe.config
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\csc.rsp
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\csi.exe
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\csi.exe.config
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\csi.rsp
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.AppContext.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Console.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Globalization.Calendars.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.IO.Compression.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Net.Http.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Net.Sockets.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.ValueTuple.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Xml.XPath.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\vbc.exe
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\vbc.exe.config
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\vbc.rsp
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\VBCSCompiler.exe
+C:\Users\uriel\source\repos\NHS\lms\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\uriel\source\repos\NHS\lms\bin\BouncyCastle.Crypto.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\BouncyCastle.Cryptography.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\Google.Protobuf.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.barcodes.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.bouncy-castle-adapter.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.bouncy-castle-connector.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.commons.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.forms.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.io.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.kernel.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.layout.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.pdfa.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.sign.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.styledxmlparser.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.svg.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\K4os.Compression.LZ4.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\K4os.Compression.LZ4.Streams.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\K4os.Hash.xxHash.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Extensions.Logging.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Extensions.Options.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Extensions.Primitives.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\MySql.Data.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\Newtonsoft.Json.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\System.Buffers.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\System.Configuration.ConfigurationManager.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\System.IO.Pipelines.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\System.Memory.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\System.Numerics.Vectors.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\System.Threading.Tasks.Extensions.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\System.ValueTuple.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\ZstdSharp.dll
+C:\Users\uriel\source\repos\NHS\lms\bin\BouncyCastle.Crypto.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\BouncyCastle.Cryptography.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\Google.Protobuf.pdb
+C:\Users\uriel\source\repos\NHS\lms\bin\Google.Protobuf.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.barcodes.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.bouncy-castle-adapter.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.bouncy-castle-connector.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.commons.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.forms.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.io.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.kernel.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.layout.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.pdfa.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.sign.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.styledxmlparser.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\itext.svg.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\K4os.Compression.LZ4.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\K4os.Compression.LZ4.Streams.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\K4os.Hash.xxHash.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Extensions.Logging.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Extensions.Options.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.Extensions.Primitives.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\MySql.Data.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\Newtonsoft.Json.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\System.Buffers.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\System.IO.Pipelines.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\System.Memory.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\System.Numerics.Vectors.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\System.Threading.Tasks.Extensions.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\System.ValueTuple.xml
+C:\Users\uriel\source\repos\NHS\lms\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\uriel\source\repos\NHS\lms\obj\Debug\lms.csproj.AssemblyReference.cache
+C:\Users\uriel\source\repos\NHS\lms\obj\Debug\lms.Properties.Resources.resources
+C:\Users\uriel\source\repos\NHS\lms\obj\Debug\lms.csproj.GenerateResource.cache
+C:\Users\uriel\source\repos\NHS\lms\obj\Debug\lms.csproj.CoreCompileInputs.cache
+C:\Users\uriel\source\repos\NHS\lms\obj\Debug\lms.csproj.CopyComplete
+C:\Users\uriel\source\repos\NHS\lms\obj\Debug\lms.dll
+C:\Users\uriel\source\repos\NHS\lms\obj\Debug\lms.pdb

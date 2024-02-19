@@ -1,0 +1,124 @@
+﻿.room-page {
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    padding: 10px;
+
+}
+.room-filter {
+    display: flex;
+    width: 100%;
+    height: 70px;
+
+    color: black;
+}
+.filters{
+    display:flex;
+    align-items:center;
+    justify-content:flex-start;
+    flex:2;
+  
+    padding:10px;
+    color:#000;
+}
+.filters p{
+    font-size:25px;
+    margin:10px 10px 10px 0;
+   font-family:Arial;
+   font-weight:500;
+    padding:5px;
+}
+.filters .d-list{
+    padding:10px;
+    width:auto;
+    font-size:18px;
+    border-radius:10px;
+    background-color: #fff;
+   color:#000;
+    
+}
+
+.btn-room{
+    flex:1;
+    display:flex;
+    align-items:center;
+    justify-content:flex-end;
+    padding-right:40px;
+}
+.btn-room .add-room{
+   
+    font-size:25px;
+    padding:10px 20px;
+      background-color: #eb4d4d;
+      cursor:pointer;
+      border-radius:10px;
+     transition:0.3s all ease;
+     color:#fff;
+}
+.btn-room .add-room:hover{
+     background-color: #f57f7f;
+}
+.btn-room .add-room i{
+    margin-right:15px;
+    padding:5px 10px;
+    border-radius:50%;
+    background-color:#fff;
+    color:#000;
+}
+
+.link{
+    height:300px;
+    width:700px;
+ 
+  
+  margin:50px auto;
+
+}
+.assignment {
+  
+    height: 100%;
+    width: 100%;
+}
+.assignment .message{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+ 
+    height:200px;
+    width:100%;
+}
+.assignment .message p{
+    font-size:28px;
+    font-family:'Times New Roman';
+   
+}
+.assignment .message-button{
+    display:flex;
+    align-items:center;
+    justify-content:space-around;
+
+    height:calc(100% - 200px);
+    padding:5px 0;
+}
+.assignment .message-button .msg{
+    height:50px;
+    width:150px;  
+    cursor:pointer;
+    border-color:transparent;
+    color:#fff;
+    transition:0.3s all ease;
+    border-radius:15px;
+}
+.assignment .message-button .yes{
+    background-color:#22ff00;
+    color:#000;
+}
+.assignment .message-button .no{
+    background-color:red;
+     color:#000;
+}
+.assignment .message-button .msg:hover{
+    opacity:0.5;
+    font-weight:bold;
+    outline:1px solid black;
+}

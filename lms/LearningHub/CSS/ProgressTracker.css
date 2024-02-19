@@ -1,0 +1,155 @@
+﻿.Content {
+    margin-top: 20px;
+    background-color: white;
+    color: black;
+}
+
+#progressGridView {
+    width: 100%;
+    border-collapse: collapse;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    margin-bottom: 20px;
+    background-color: white;
+    font-size: 18px;
+    font: bold;
+}
+
+    #progressGridView th,
+    #progressGridView td {
+        border: 1px solid #ddd;
+        padding: 12px;
+        text-align: left;
+    }
+
+    #progressGridView th {
+        background-color: darkorange;
+    }
+
+    #progressGridView tr:hover {
+        background-color: lightsalmon;
+    }
+
+.more-button {
+    background-color: orange;
+    color: #fff;
+    padding: 8px 12px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+    .more-button:hover {
+        background-color: saddlebrown;
+    }
+
+
+#progressGridView td:nth-child(9) {
+    font-weight: bold;
+    color: #4CAF50;
+}
+
+
+#progressGridView td:nth-child(10),
+#progressGridView th:nth-child(10) {
+    text-align: center;
+}
+
+
+#progressGridView .hfRowIndex {
+    display: none;
+}
+
+
+#progressGridView .litProgress {
+    font-weight: bold;
+    color: #4CAF50;
+}
+
+
+@media (max-width: 768px) {
+    #progressGridView th,
+    #progressGridView td {
+        font-size: 12px;
+    }
+
+    .more-button {
+        font-size: 12px;
+    }
+}
+
+.additional-content {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 20px;
+    border: 1px solid #ccc;
+    background-color: rgba(1, 1, 1, 0.2);
+}
+
+.progress-table {
+    width: 40%;
+    margin-bottom: 20px;
+    border-collapse: collapse;
+}
+
+    .progress-table th,
+    .progress-table td {
+        padding: 10px;
+        border: 1px solid #ddd;
+        text-align: left;
+    }
+
+.details-button {
+    background-color: saddlebrown;
+    color: #fff;
+    border: none;
+    padding: 5px 10px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 14px;
+    cursor: pointer;
+}
+
+#hidediv {
+    display: none;
+    border: 5px solid;
+    border-color: orange;
+    height: 30%;
+    position: relative;
+}
+
+    #hidediv p,
+    #hidediv label {
+        color: #333;
+        margin: 10px;
+    }
+
+.edit-button,
+.complete-button {
+    background-color: orange;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+    margin-right: 10px;
+}
+
+    .edit-button:hover,
+    .complete-button:hover {
+        background-color: saddlebrown;
+        color: white;
+        padding: 5px 10px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        font-weight: bold;
+        transition: background-color 0.3s;
+    }

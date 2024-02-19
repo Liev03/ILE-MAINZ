@@ -1,0 +1,247 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="classroomMasterPage.master.cs" Inherits="lms.Student.classroomMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+  <meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<title>Learning Management System</title>
+<link rel="icon" href="../Resources/Novaliches Senior High School.png" type="image/x-icon" />
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet' />
+   <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css" />
+<script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+<link href="../CSS/ProfessorCSS/classroomMasterPage.css" rel="stylesheet" />
+  <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
+  <asp:ContentPlaceHolder ID="head" runat="server">
+  </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+                     <header>
+        <div class="header-content">
+            <div class="icon-img-h2">
+            
+                <img src="../Resources/Novaliches Senior High School.png" alt="LOGO" />
+                <h2>Novaliches High School</h2>
+            </div>
+            <i class="fas fa-angle-right dropdown"></i>
+            <div class="sched-subj">
+                <asp:Label ID="lblsubjectname" runat="server" Text="" CssClass="sub"></asp:Label>
+                <asp:Label ID="lblschedule" runat="server" Text="" CssClass="sched-room"></asp:Label>
+            </div>
+        </div>
+        <div class="header-login">
+            <div class="dropdown">
+                <button class="dropdown-toggle"><i class='bx bx-user-circle icon'></i><i class='bx bxs-down-arrow arrow'></i></button>
+                <div class="dropdown-menu">
+                    <a href="/Account/Logout.aspx"><i class="fas fa-sign-out-alt"></i>Logout</a>
+
+                </div>
+            </div>
+        </div>
+    </header>
+    <div class="container">
+        <div class="side-bar">
+            <div class="menu">
+                 <div class="item-logo">
+     <asp:Image ID="Image1" runat="server" CssClass="img-profile" />                 
+     <asp:Label ID="lblUserEmail" runat="server" Text="" CssClass="admin-label"></asp:Label>
+  
+ </div>
+                  <div class="item">
+  <a href='Stream.aspx?roomid=<%= Request.QueryString["roomid"] %>' class="sub-btn-active"><span><i class="fas fa-bullhorn"></i>Announcements</span></a>
+ </div>
+ <div class="item">
+     <a href='Classworks.aspx?roomid=<%= Request.QueryString["roomid"] %>' class="sub-btn-active"><span><i class='bx bxs-book-reader'></i>Classworks</span></a>
+ </div>
+  <div class="item">
+       <a href='People.aspx?roomid=<%= Request.QueryString["roomid"] %>' class="sub-btn-active"><span><i class="fas fa-users"></i>People</span></a>
+ </div>
+  <div class="item">
+     <a href='writeEmail.aspx?roomid=<%= Request.QueryString["roomid"] %>' class="sub-btn-active"><span><i class="fas fa-envelope"></i>Write Email</span></a>
+</div>
+
+ <div class="item">
+     <a href="classSubjects.aspx" class="sub-btn-active"><span><i class="fas fa-sign-out-alt"></i>Exit</span></a>
+  </div>
+            </div>
+        </div>
+        <main class="content">
+             <asp:ContentPlaceHolder ID="Student" runat="server">
+
+             </asp:ContentPlaceHolder>
+           
+        </main>
+    </div>
+   
+</form>
+
+<script>
+
+    $(".sub-btn").click(function () {
+        $(this).siblings(".sub-menu").slideToggle();
+        $(this).find(".dropdown").toggleClass("rotate");
+    });
+</script>
+<script>
+    const dropdownToggle = document.querySelector(".dropdown-toggle");
+    const dropdownMenu = document.querySelector(".dropdown-menu");
+
+    dropdownToggle.addEventListener("click", (e) => {
+        e.preventDefault();
+        dropdownMenu.style.display = dropdownMenu.style.display === "block" ? "none" : "block";
+    });
+
+    window.addEventListener("click", (e) => {
+        if (!dropdownToggle.contains(e.target)) {
+            dropdownMenu.style.display = "none";
+        }
+    });
+</script>
+<script>
+    //const btn = document.querySelector("#btn");
+    //const sidebar = document.querySelector(".side-bar");
+
+    //btn.onclick = function () {
+    //    sidebar.classList.toggle("active");
+    //}
+    document.addEventListener('DOMContentLoaded', function () {
+
+        document.getElementById('postDetailsInput').style.display = 'none';
+
+
+        var link = document.querySelector('#postDetailsLink .post-txt');
+        var link2 = document.querySelector('#postDetailsInput .cancel');
+        var createPost = document.querySelector('.post-details');
+
+        link.addEventListener('click', function (event) {
+            event.preventDefault();
+
+
+            document.getElementById('postDetailsLink').style.display = 'none';
+            document.getElementById('postDetailsInput').style.display = 'block';
+
+            createPost.style.height = '230px';
+        });
+        link2.addEventListener('click', function (event) {
+            event.preventDefault();
+
+
+            document.getElementById('postDetailsLink').style.display = 'flex';
+            document.getElementById('postDetailsInput').style.display = 'none';
+            createPost.style.height = '60px';
+        });
+    });
+
+</script>
+<script>
+
+    document.addEventListener('DOMContentLoaded', function () {
+        var link = document.querySelector('#postDetailsLink .post-txt');
+        var link2 = document.querySelector('#postDetailsInput .cancel');
+        var linkContainer = document.getElementById('postDetailsLink');
+        var inputContainer = document.getElementById('postDetailsInput');
+
+
+        linkContainer.style.opacity = '1';
+        inputContainer.style.opacity = '0';
+
+        link.addEventListener('click', function (event) {
+            event.preventDefault();
+
+
+            linkContainer.style.opacity = '0';
+
+
+            setTimeout(function () {
+                inputContainer.style.opacity = '1';
+            }, 300);
+        });
+
+        link2.addEventListener('click', function (event) {
+            event.preventDefault();
+
+
+            inputContainer.style.opacity = '0';
+
+
+            setTimeout(function () {
+                linkContainer.style.opacity = '1';
+            }, 300);
+        });
+    });
+</script>
+<script>
+    document.getElementById('createRoomLink').addEventListener('click', function (e) {
+        e.preventDefault();
+
+        var assignmentContainer = document.getElementById('assignmentContainer');
+        var backgroundBlur = document.getElementById('bg-blur');
+
+        if (assignmentContainer.style.display === 'none' || assignmentContainer.style.display === '') {
+            backgroundBlur.style.display = 'block';
+            assignmentContainer.style.display = 'block';
+        } else {
+            backgroundBlur.style.display = 'none';
+            assignmentContainer.style.display = 'none';
+        }
+    });
+</script>
+<%--<script>
+    function showSuccessMessage() {
+        Swal.fire({
+            icon: 'success',
+            text: 'Your post has been successfully posted',
+            showCancelButton: true,
+            confirmButtonColor: '#3085d6',
+            cancelButtonColor: '#d33',
+        }).then((result) => {
+            if (result.isConfirmed) {
+                window.location.href = 'InstructorClassroom.aspx';
+
+            });
+    }
+</script>--%>
+  <script>
+
+      function handleLinkClick(link) {
+
+          var menuItems = document.querySelectorAll('.menu .item');
+          menuItems.forEach(function (item) {
+              item.classList.remove('active');
+          });
+
+
+          link.parentNode.classList.add('active');
+
+
+          localStorage.setItem('activeLink', link.getAttribute('href'));
+      }
+
+
+      var activeLink = localStorage.getItem('activeLink');
+
+      if (activeLink) {
+
+          var links = document.querySelectorAll('.menu a');
+          links.forEach(function (link) {
+              if (link.getAttribute('href') === activeLink) {
+                  handleLinkClick(link);
+              }
+          });
+      }
+
+      var links = document.querySelectorAll('.menu a');
+
+
+      links.forEach(function (link) {
+          link.addEventListener('click', function () {
+              handleLinkClick(this);
+          });
+      });
+  </script>
+
+</body>
+</html>

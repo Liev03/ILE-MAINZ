@@ -1,0 +1,130 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+}
+.link {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+  
+    z-index: 1000;
+    width: 70%;
+       height: 500px;
+       padding: 20px;
+       display:none;
+}
+
+.assignment {
+    display: flex;
+    height: 100%;
+    border: 1px solid red;
+    width: 100%;
+    padding: 20px;
+}
+.assignment .assign-title{
+    flex:1;
+     border:1px solid red;
+}
+.assign-title .title{
+  
+    height:150px;
+    display:flex;
+    align-items:center;
+    padding:20px;
+  
+}
+.assign-title .title .lbl-title{
+    font-size:20px;
+     margin-right:20px;
+     font-family:Arial;
+}
+.assign-title .title .txt-title{
+    width:100%;
+     height:50px;
+     padding:15px;
+     border-radius:15px;
+     font-size:18px;
+     font-family:Arial;
+}
+
+
+.instructions {
+  
+    height:calc(100% - 150px);
+    display:flex;
+    padding:20px;
+
+}
+.instructions .lbl-instruc{
+   font-size:20px;
+     margin-right:20px;
+     font-family:Arial;
+}
+.instructions .txt-instruc{
+    resize:none;
+    height:200px;
+    width:100%;
+    border-radius:15px;
+    padding:20px;
+}
+
+
+.assignment .assign-description {
+    flex: 1;
+    border: 1px solid red;
+    padding: 20px;
+}
+.assign-description .assign{
+    height:70px;
+   
+    display:flex;
+    align-items:center;
+    padding:15px;
+}
+.assign .lbl-assign{
+    font-size:20px;
+    font-family:Arial;
+  flex:.5;
+}
+.assign .txt{
+   flex:2;
+   height:100%;
+   padding:10px;
+   font-size:18px;
+   font-family:Arial;
+
+}
+.assign .list {
+    flex: 2;
+    height: 100%;
+    font-size: 18px;
+    font-family: Arial;
+}
+
+.assign-btn{
+   
+    height:calc(100% - 280px);
+    display:flex;
+    align-items:center;
+    justify-content:flex-end;
+}
+.assign-btn .buttons{
+    padding:15px 30px;
+    margin:15px;
+    border-color:transparent;
+      background-color: #eb4d4d;
+      color:#fff;
+      font-size:15px;
+      font-family:Arial;
+      border-radius:15px;
+      transition:0.3s all ease;
+      cursor:pointer;
+}
+.assign-btn .buttons:hover{
+     background-color: #f57f7f;
+}

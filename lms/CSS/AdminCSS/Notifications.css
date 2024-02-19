@@ -1,0 +1,157 @@
+﻿
+
+.message {
+    background-color: #fff;
+    height: 100%;
+    width: 100%;
+    padding: 0 30px 0 0;
+}
+.message1 {
+    background-color: #fff;
+    height: 100%;
+    width: 100%;
+    padding: 10px 20px;
+  
+}
+.message2 {
+    background-color: #fff;
+    height: 100%;
+    width: 100%;
+    padding: 0 30px 0 0;
+
+}
+
+
+.message-content {
+    background-color: #fff;
+    height: 100%;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.7);
+}
+
+.message-head {
+    height: 50px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    background-color: #eb4d4d;
+    
+}
+.message-head h2{
+    color:#fff;
+    font-family:'Times New Roman';
+    font-size:23px;
+}
+.message-head a{
+    margin-right:10px;
+  
+}
+.arrow-left {
+    padding: 5px 20px;
+    font-size:35px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 30px;
+    color: #fff;
+    height:50px;
+}
+.arrow-left:hover{
+    background-color: #f57f7f;
+}
+.head {
+    display: flex;
+    width: 100%;
+    background-color: #f57f7f;
+    color: #fff;
+    padding: 10px 20px;
+    height: 40px;
+    display: flex;
+    align-items: center;
+}
+h3 {
+ 
+    margin-right:15px;
+     font-weight:bold;
+     letter-spacing:1px;
+
+}
+.message-details {
+    height: 120px;
+    width: 100%;
+  
+}
+.message-details .area{
+    height:calc(100% - 40px);
+  
+    padding:5px 15px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    ;
+}
+
+.area1 {
+    width: 100%;
+    resize: none;
+    height: 50px;
+    padding: 15px 30px;
+    font-size: 15px;
+    border-color: transparent;
+    border-radius: 15px;
+    background-color:#ddd;
+}
+
+.main-message{
+
+    height:300px;
+}
+.main-message .area{
+    height:calc(100% - 40px);
+
+     padding: 15px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.area2 {
+    width: 100%;
+    resize: none;
+   height:100%;
+    padding: 20px 30px;
+    font-size: 15px;
+    font-family: Arial;
+    border-color: transparent;
+    border-radius: 15px;
+    background-color: #ddd;
+}
+
+.message-btn{
+    height:calc(100% - 590px);
+    display:flex;
+    align-items:center;
+   
+}
+
+.button {
+    margin: 0 20px 10px 20px;
+    padding: 15px 30px;
+    background-color: #eb4d4d;
+    color: #fff;
+    font-weight: bold;
+    border-color: transparent;
+    border-radius: 10px;
+    transition:0.3s all ease;
+    cursor:pointer;
+}
+
+.button:hover {
+    background-color: #f57f7f;
+    
+    
+ }
+
+.error{
+   margin-top:10px;
+    color:black;
+   
+}

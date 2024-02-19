@@ -1,0 +1,194 @@
+﻿.PostRequestHolder {
+    width: 80%;
+    margin: 0 auto;
+    border-radius: 5px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+    text-align: center;
+    font-family: Arial, sans-serif;
+    transition: transform 0.2s;
+}
+
+    .PostRequestHolder:hover {
+        transform: translateY(-5px);
+    }
+
+.TopPart {
+    display: inline-flex;
+    color: white;
+    align-items: center;
+}
+
+.ImageContainer {
+    width: 50%;
+    display: contents;
+    justify-content: center;
+    align-items: center;
+}
+
+
+.RequestImage {
+    width: 100%;
+    border-radius: 50%;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s;
+}
+
+    .RequestImage:hover {
+        transform: scale(1.1);
+    }
+
+.HoldInfos {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.InfoLabel {
+    padding-top: 10px;
+}
+
+.BottomPart {
+    display: block;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid #ff6a00;
+    padding: 4px;
+    text-align: center;
+    font-size: 10px;
+    color: white;
+    font-size: small;
+}
+
+.Strand {
+}
+
+.Subject {
+}
+
+.Avail {
+}
+
+.Location {
+}
+
+#Button1 {
+}
+
+.Strand,
+.Subject,
+.Avail,
+.Location {
+    margin: 10px;
+}
+
+.Content {
+}
+/* Para sa submit button kineme */
+#ReqSubmit {
+    background-color: #ff5722;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 20px;
+    transition: background-color 0.3s, transform 0.2s;
+}
+    /* Para sa color ng submit button kunyare fadeaway*/
+    #ReqSubmit:hover {
+        background-color: #ff6f33;
+        transform: scale(1.05);
+    }
+
+p {
+    font-weight: bold;
+}
+/* para sa radio buttin margin*/
+input[type="radio"], input[type="checkbox"] {
+    margin-right: 5px;
+}
+
+.PostRequestHolder {
+    background: linear-gradient(to right, #ff6a00, #ff9933);
+}
+
+.RequestImage {
+    border: 1px solid white;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+.InfoLabel {
+    color: white;
+}
+
+.BottomPart {
+    background: linear-gradient(to right, #ff9933, #ffcc66);
+}
+
+.BottomPart {
+    font-size: 15px;
+}
+
+#ReqSubmit {
+    border: 1px solid white;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
+}
+
+    #ReqSubmit:hover {
+        background-color: #ff6a00;
+    }
+
+#ReqSubmit {
+    background-color: #000000;
+    color: white;
+    padding: 10px 20px;
+    border: 1px solid white;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    margin-top: 20px;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+    #ReqSubmit:hover {
+        background-color: #ff0000;
+    }
+
+.ImagePF {
+    width: 30%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 50%;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.3);
+    transition: transform 0.2s
+}
+
+    .ImagePF:hover {
+        transform: scale(1.1);
+    }
+
+.HoldInfos {
+    width: 50%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.InfoLabel {
+    margin: 5px 0;
+    font-size: 20px;
+    color: #333;
+    color: white;
+}
+
+.HoldInfos {
+    text-align: center;
+}

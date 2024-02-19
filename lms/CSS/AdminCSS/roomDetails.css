@@ -1,0 +1,148 @@
+﻿
+.view-details{
+    width:100%;
+    height:100%;
+   
+    padding:10px 30px 0 0;
+   
+}
+
+.details-card {
+    width: 100%;
+    height: 100%;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+}
+
+.details-card .room-head{
+      display: flex;
+    height:50px;
+    background-color: #eb4d4d;
+    align-items:center;
+}
+.room-head a{
+    width:60px;
+  
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:100%;
+}
+.room-head a .arrow-left{
+    font-size:30px;
+    color:#fff;
+}
+.room-head a:hover {
+    background-color: #f57f7f;
+}
+
+.room-head h2 {
+    line-height: 40px;
+    margin-left: 5px;
+    color: #fff;
+}
+
+
+.room-prof {
+    width: 100%;
+  
+    height: calc(100% - 50px);
+    overflow:hidden;
+   
+}
+.room-prof .p-room{
+    height:40px;
+    display:flex;
+   background-color: #f57f7f;
+   align-items:center;
+   font-size:18px;
+   padding-left:20px;
+  
+}
+.room-prof .p-room span{
+    margin-right:20px;
+     color:#fff;
+}
+.room-prof .p-room .room-lbl{
+    color:#fff;
+    font-weight:bold;
+    font-family:Arial;
+}
+.subjects {
+    display: flex;
+    align-items: flex-start;
+    justify-content: center;
+    height: calc(100% - 40px);
+    width: 100%;
+    overflow-y:scroll;
+    
+}
+.subjects::-webkit-scrollbar {
+  width: 1px; 
+}
+
+.subjects::-webkit-scrollbar-thumb {
+  background-color: transparent; 
+ 
+  border-radius: 6px;
+}
+
+
+.subjects::-webkit-scrollbar-track {
+  background-color:transparent;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    margin-top: 1px;
+    width: 100%;
+   
+}
+
+    table td, table th {
+        border: 1px solid #ddd;
+        padding: 15px;
+    }
+
+    table tr:nth-child(even) {
+        background-color: #f2f2f2;
+    }
+
+    table tr:hover {
+        background-color: #f57f7f;
+        color:#fff;
+    }
+
+    table th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #eb4d4d;
+        color: white;
+        text-align: center;
+       
+    }
+
+    table .subj {
+        width: 10000px;
+      
+    }
+table .btn-list{
+    width:150px;
+   
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:5px 0;
+}
+
+tbody tr td a {
+    padding: 3px;
+    border: 1px solid black;
+    display: flex;
+    color: #fff;
+    background-color: #eb4d4d;
+    text-align: center;
+    border-color: transparent;
+    border-radius: 10px;
+}

@@ -1,0 +1,30 @@
+﻿
+.archived {
+    background-color: white;
+    height: 100%;
+    width: 100%;  
+    padding:0 30px 0 0;
+   
+}
+
+.archived-head {
+    border: 1px solid red;
+    width: 100%;
+    height: 70px;
+    display:flex;
+    align-items:center;
+     padding: 10px;
+}
+
+.archived-head .archived-search{
+    width:700px;
+    padding:10px;
+    height:50px;
+     padding: 10px 20px;
+     border-radius:20px;
+}
+.archived-body{
+    border:1px solid red;
+    width:100%;
+    height:calc(100% - 70px);
+}

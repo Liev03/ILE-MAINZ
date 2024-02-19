@@ -1,0 +1,221 @@
+﻿
+.reports {
+  
+    height: 100%;
+    width: 100%;
+ 
+    padding: 10px 30px 0 0;
+    
+}
+.search-room {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    height: 60px;
+    
+  
+}
+.search-bar {
+    flex: 1;
+    height: 100%;
+    padding: 5px;
+    position: relative;
+   
+}
+.search-bar .search{
+      width: 100%;
+  height:100%;
+   
+    border-radius: 20px;
+    position: relative;
+    margin-right: 20px;
+    padding: 10px 60px 10px 20px;
+    font-size: 15px;
+  
+    position:relative;
+}
+.search-bar i{
+    position:absolute;
+    right:5px;
+    top:5px;
+ 
+    padding:10px;
+    border-radius:50%;
+    font-size:30px;
+    cursor:pointer;
+}
+.search-bar i:hover{
+    color:#eb4d4d;
+}
+.search-buttons {
+    flex: 1;
+    height: 100%;
+    display: flex;
+    align-items: center;
+
+
+}
+
+.report-tbl{
+ 
+    height:100%;
+    width:100%;
+  
+   
+}
+.report-tbl .invite-room{
+  
+    width:100%;
+    height:100%;
+     box-shadow: 0 6px 12px rgba(0, 0, 0.5, 0.5);
+}
+.invite-room .invite-p {
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+    padding: 10px 15px;
+    
+    height: 50px;
+    background-color: #eb4d4d;
+}
+.invite-room .invite-p p{
+    color:#fff;
+    font-size:18px;
+    font-weight:bold;
+}
+.invite-room .invite-room-list {
+  
+    height: calc(100% - 50px);
+}
+.invite-room-list .class-list {
+    height: 100%;
+    width: 100%;
+    height: calc(100% - 50px);
+  
+}
+.search-student {
+    width: 100%;
+    height: 60px;
+ 
+    padding: 10px 20px;
+    position: relative;
+}
+.search-student .text-search{
+    width:50%;
+    height:100%;
+    border-radius:15px;
+    padding:10px 50px 10px 20px;
+
+}
+.search-student i{
+    position:absolute;
+    top:10px;
+    left:47%;
+  
+    padding:10px;
+    font-size:20px;
+    border-radius:50%;
+    transition:0.3s all ease;
+    cursor:pointer;
+}
+.search-student i:hover{
+    color: #eb4d4d;
+}
+
+.student-tbl{
+    height:calc(100% - 60px );
+    width:100%;
+   overflow-y:scroll;
+}
+
+
+
+.tabs {
+    position: relative;
+    width: 100%;
+    background-color: #f57f7f;
+}
+.tab { 
+    padding: 10px 15px;
+    width: 100%;
+    color: #fff;
+    height:20%;
+    transition:0.3s all ease;
+    font-weight:bold;
+  
+}
+.tab:hover{
+        background-color: #eb4d4d;
+      
+}
+.selected-tab{
+    border-bottom:1px solid white;
+    background-color:white;
+
+}
+.tabContents {
+    padding: 10px;
+    background-color: white;
+
+    width: 100%;
+    height: 89%;
+}
+
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    background-color:#fff;
+    width: 100%;
+}
+
+    table td, table th {
+        border: 1px solid #ddd;
+        padding: 15px;
+    }
+
+    table tr:nth-child(even) {
+        background-color: #f2f2f2;
+        transition: 0.3s all ease;
+    }
+
+    table tr:hover {
+        background-color: #f57f7f;
+        color: #fff;
+    }
+
+    table th {
+        padding-top: 12px;
+        padding-bottom: 12px;
+        text-align: left;
+        background-color: #eb4d4d;
+        color: white;
+        text-align: center;
+    }
+
+tbody tr td a {
+    padding: 3px;
+    border: 1px solid black;
+    display: flex;
+    color: #fff;
+    background-color: #eb4d4d;
+    text-align: center;
+    border-color: transparent;
+    border-radius: 10px;
+}
+.btn-list{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:10px 20px;
+}
+
+
+/*STUDENT INVITE ASPX*/
+
+.subject-name {
+    width: 100%;
+    background-color: #f57f7f;
+    height:100%;
+}

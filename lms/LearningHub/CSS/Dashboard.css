@@ -1,0 +1,92 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.Dashboard {
+    display: flex;
+    width: 100vw;
+    height: 100vh;
+}
+
+.IconNavigation {
+    width: 15%;
+    background-color: maroon;
+    border-right: 3px solid #f57f7f;
+}
+
+.Icon {
+    width: 100%;
+    padding: 20px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.IconImage {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.Navigation {
+    padding: 20px 0;
+}
+
+.dropbtn {
+    background-color: maroon;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    margin-bottom: 10px;
+}
+    .dropbtn:hover {
+        background-color: #f57f7f;
+    }
+.dropdown {
+    position: relative;
+    display: inline-block;
+    width: 100%;
+}
+
+.dropdown-content {
+    display: none;
+    position: absolute;
+    background-color: #f57f7f;
+    width: 100%;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 1;
+    color: white;
+}
+
+    .dropdown-content a {
+        color: white;
+        padding: 12px 16px;
+        text-decoration: none;
+        display: block;
+        transition: background-color 0.3s;
+    }
+
+        .dropdown-content a:hover {
+            background-color: #fff;
+            color:#000;
+        }
+
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+.Content {
+    flex-grow: 1;
+    background-image: url('IMAGES/novahigh.png');
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+
+    color: white;
+    padding: 20px;
+    
+}

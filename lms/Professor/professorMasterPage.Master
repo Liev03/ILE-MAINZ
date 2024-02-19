@@ -1,0 +1,156 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="professorMasterPage.master.cs" Inherits="lms.Professor.professorMasterPage" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+     <meta charset="UTF-8"/>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+    <title>Learning Management System</title>
+     <link rel="icon" href="../Resources/Novaliches Senior High School.png" type="image/x-icon" />
+    <link rel="stylesheet" href="../CSS/ProfessorCSS/professorMasterPage.css"/>
+   <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css"/>   
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.5.1/jquery.min.js" charset="utf-8"></script>
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css">
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+   <form id="form1" runat="server">
+      <header>
+        <div class="header-content">
+            <a href="DashBoard.aspx"><img src="../Resources/Novaliches Senior High School.png" alt="LOGO" /></a>
+           <a href="DashBoard.aspx"> <h2> Novaliches High School</h2></a>
+        </div>
+        <div class="header-login">
+             <div class="dropdown">
+                    <button class="dropdown-toggle"><i class='bx bx-user-circle icon'></i><i class='bx bxs-down-arrow arrow'></i></button>
+                     <div class="dropdown-menu">
+                          <a href="../Account/MyAccountProf.aspx"> <i class='bx bxs-user-circle'></i>My Account</a>
+                         <a href="/Account/Logout.aspx"> <i class="fas fa-sign-out-alt"></i> Logout</a>   
+                 </div>
+            </div>
+        </div>
+        </header>
+
+    <div class="container">
+      <div class="side-bar">
+
+        <div class="menu">
+            <div class="item-logo">
+                <asp:Image ID="Image1" runat="server" CssClass="img-profile" />                 
+                <asp:Label ID="lblUserEmail" runat="server" Text="" CssClass="admin-label"></asp:Label>
+             
+            </div>
+            <div class="item active">
+                <a href="DashBoard.aspx"><i class='bx bxs-dashboard'></i>DashBoard</a>
+
+            </div>
+     
+            <div class="item">
+                <a href="CreateRoom.aspx" class="sub-btn" ><i class="fa-solid fa-users-rectangle"></i>Create Room</a>
+                
+            </div>
+              <div class="item">
+                   <a class="sub-btn" ><i class="fas fa-user-plus"></i>Invite Students<i class="fas fa-angle-right dropdown"></i></a>
+                   <div class="sub-menu">
+                      <a href="inviteStudents.aspx" class="sub-item">Invitations</a>
+                     <a href="pendingInvite.aspx">Pending Invitations</a>
+                </div>
+
+             </div>
+          
+               <div class="item">
+                   <a href="notifications.aspx"><i class="fas fa-bell"></i>Notifications</a>
+                    
+              </div>
+              <div class="item">
+                     <a href="WriteEmail.aspx" class="sub-btn"><i class="fas fa-envelope"></i> Write Email</a>
+    
+                 </div>
+              <div class="item">
+                  <a href="archiveClass.aspx" class="sub-btn"><i class="fa fa-archive" aria-hidden="true"></i> Archive Classes</a>
+    
+                 </div>
+    
+
+        </div>
+
+        
+    </div>
+
+    <main class="content">
+           <asp:ContentPlaceHolder ID="body" runat="server" >
+
+
+            </asp:ContentPlaceHolder>        
+    </main>
+</div>
+
+    <script>
+      
+        $(".sub-btn").click(function() {
+            $(this).siblings(".sub-menu").slideToggle();
+            $(this).find(".dropdown").toggleClass("rotate");
+        });
+    </script>
+        <script>
+            const dropdownToggle = document.querySelector(".dropdown-toggle");
+            const dropdownMenu = document.querySelector(".dropdown-menu");
+
+            dropdownToggle.addEventListener("click", (e) => {
+                e.preventDefault();
+                dropdownMenu.style.display = dropdownMenu.style.display === "block" ? "none" : "block";
+            });
+
+            window.addEventListener("click", (e) => {
+                if (!dropdownToggle.contains(e.target)) {
+                    dropdownMenu.style.display = "none";
+                }
+            });
+        </script>
+       <script>
+      
+       function handleLinkClick(link) {
+     
+           var menuItems = document.querySelectorAll('.menu .item');
+           menuItems.forEach(function (item) {
+               item.classList.remove('active');
+           });
+
+         
+           link.parentNode.classList.add('active');
+
+       
+           localStorage.setItem('activeLink', link.getAttribute('href'));
+       }
+
+     
+       var activeLink = localStorage.getItem('activeLink');
+
+       if (activeLink) {
+         
+           var links = document.querySelectorAll('.menu a');
+           links.forEach(function (link) {
+               if (link.getAttribute('href') === activeLink) {
+                   handleLinkClick(link);
+               }
+           });
+       }
+
+       var links = document.querySelectorAll('.menu a');
+
+     
+       links.forEach(function (link) {
+           link.addEventListener('click', function () {
+               handleLinkClick(this); 
+           });
+       });
+       </script>
+     </form>
+  
+</body>
+</html>
+   

@@ -1,0 +1,350 @@
+﻿
+.classwork {
+    width: 100%;
+    height: 100%;
+    padding: 20px ;
+    overflow-y: auto;
+ 
+}
+.classwork::-webkit-scrollbar {
+    width: 10px;
+}
+
+.classwork::-webkit-scrollbar-thumb {
+    background-color: #eb4d4d;
+    border-radius: 6px;
+}
+
+
+.classwork::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+
+.class-head {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    height: 50px;
+    background-color: #eb4d4d;
+    padding:0 20px;
+}
+.class-head h2{
+    color:#fff;
+    font-family:Arial;
+    letter-spacing:1px;
+}
+.class-head .drop-list1{
+    flex:1;
+   
+     height:100%;
+     display:flex;
+     align-items:center;
+     padding:0 25px;
+
+}
+.class-head .drop-list2{
+    flex:1;
+    
+      height:100%;
+       display:flex;
+     align-items:center;
+     justify-content:flex-end;  
+     padding:0 25px;
+}
+.d-link {
+    padding: 10px 20px; 
+    background-color: #eb4d4d;
+    margin-left: 10px;
+    font-size: 18px;
+    border-radius: 10px;
+    color:#fff;
+    transition:0.3s all ease;
+   
+}
+.d-link:hover{
+    background-color: #f57f7f;
+}
+.d-list {
+    padding: 10px;
+    width: 230px;
+    font-size: 18px;
+    border-radius: 10px;
+    
+   
+    margin-left: 10px;
+}
+.class-body{
+    width:100%;
+    height:100%;
+   
+}
+
+
+
+.edit {
+    height: calc(100% - 50px);
+    background-color: #fff;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+}
+.assignment {
+    display: flex;
+    height: 100%;
+  
+    width: 100%;
+
+}
+.assignment .assign-title{
+    flex:1;
+    
+}
+.assign-title .title{
+  
+    height:150px;
+    display:flex;
+    align-items:center;
+    padding:20px;
+  
+}
+.assign-title .title .lbl-title{
+    font-size:20px;
+     margin-right:20px;
+     font-family:Arial;
+     color:#000;
+     font-weight:bold;
+}
+.assign-title .title .txt-title{
+    width:100%;
+     height:50px;
+     padding:15px;
+     border-radius:15px;
+     font-size:18px;
+     font-family:Arial;
+}
+
+
+.instructions {
+  
+    height:calc(100% - 150px);
+    display:flex;
+    padding:20px;
+
+}
+.instructions .lbl-instruc{
+   font-size:20px;
+     margin-right:20px;
+     font-family:Arial;
+   color:#000;
+      font-weight:bold;
+}
+.instructions .txt-instruc{
+    resize:none;
+    height:200px;
+    width:100%;
+    border-radius:15px;
+    padding:20px;
+}
+
+
+.assignment .assign-description {
+    flex: 1;
+   
+    padding: 20px;
+}
+.assign-description .assign {
+    height: 70px;
+    display: flex;
+    align-items: center;
+    padding: 15px;
+
+}
+.assign .lbl-assign{
+    font-size:20px;
+    font-family:Arial;
+  
+  color:#000;
+  font-weight:bold;
+  height:100%;
+  display:flex; 
+  align-items:center;
+    width:30%;
+}
+.rdb-post{
+    font-size:18px;
+    margin:10px;
+      color:#000;
+}
+.rdb-post input[type="radio"] {
+    margin-right: 10px;
+    height: 15px;
+    width: 15px;
+}
+.assign .txt{
+   flex:2;
+   height:100%;
+   padding:10px;
+   font-size:18px;
+   font-family:Arial;
+   width:calc(100% - 30%);
+}
+.assign .list {
+    flex: 2;
+    height: 100%;
+    font-size: 18px;
+    font-family: Arial;
+}
+
+.assign-btn{
+    height:calc(100% - 420px);
+    display:flex;
+    align-items:center;
+    justify-content:flex-end;
+
+}
+.assign-btn .buttons{
+    padding:15px 30px;
+    margin:15px;
+    border-color:transparent;
+      background-color: #eb4d4d;
+      color:#fff;
+      font-size:15px;
+      font-family:Arial;
+      border-radius:15px;
+      transition:0.3s all ease;
+      cursor:pointer;
+}
+.assign-btn .buttons:hover{
+     background-color: #f57f7f;
+     outline:1px solid black;
+}
+.assign-btn a{
+    padding:15px 30px;
+    margin:15px;
+    border-color:transparent;
+      background-color: #eb4d4d;
+      color:#fff;
+      font-size:15px;
+      font-family:Arial;
+      border-radius:15px;
+      transition:0.3s all ease;
+      cursor:pointer;
+}
+.assign-btn a:hover{
+     background-color: #f57f7f;
+     outline:1px solid black;
+}
+
+.materials-box {
+    border: 1px solid #e0e0e0;
+    border-radius: 10px;
+    background-color: #ffffff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.4);
+    transition: box-shadow 0.3s ease;
+    
+}
+
+.materials-box .title{
+    height:40px;
+    width:100%;
+    display:flex;
+    align-items:center;
+    padding:0 15px;
+    text-transform:capitalize;
+   background-color: #f57f7f;
+    justify-content:space-between;
+
+}
+.materials-box .title h2{
+    font-family:'Times New Roman';
+    font-size:25px;
+     color:#fff;
+}
+.materials-box .title a{
+   color:#000;
+   background-color:transparent;
+}
+.materials-box .date-points{
+    height:30px;
+    display:flex;
+    border-bottom:1px solid #ddd;
+}
+.materials-box .date-points .points{
+    flex:1;
+    height:100%;
+    display:flex;   
+    align-items:center;
+    padding:0 25px;
+}
+.materials-box .date-points .date{
+     flex:1;
+    height:100%;
+    display:flex;   
+    align-items:center;
+    justify-content:flex-end;
+    padding:0 25px;
+}
+
+.materials-box .instruction{
+    min-height:100px;
+    width:100%;
+    max-height:auto;
+    padding:20px;
+}
+
+.file-link {
+    display: inline-block;
+    padding: 12px 20px;
+    background-color: #007bff;
+    color: #fff;
+    border: 2px solid #007bff;
+    border-radius: 10px;
+    text-decoration: none;
+    transition: background-color 0.3s ease;
+}
+
+    .file-link:hover {
+        background-color: #0056b3;
+    }
+
+class-body {
+    height: calc(100% - 60px);
+    border:1px solid red;
+}
+
+table {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: #fff;
+    border-collapse: collapse;
+    width: 100%;
+}
+
+    table td, table th {
+        border: 1px solid transparent;
+        padding: 10px 0;
+        background-color: #fff;
+    }
+
+    table tr:nth-child(even) {
+        background-color:#000;
+        transition: 0.3s all ease;
+    }
+
+    table tr:hover {
+
+        color:black;
+    }
+
+    table th {
+       
+    }
+
+tbody tr td a {
+    padding: 3px;
+    border: 1px solid black;
+    display: flex;
+    color: #fff;
+    background-color: #eb4d4d;
+    text-align: center;
+    border-color: transparent;
+    border-radius: 10px;
+}

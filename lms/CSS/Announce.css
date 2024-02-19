@@ -1,0 +1,357 @@
+﻿
+
+.row {
+    height: auto;
+    width: 100%;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+
+}
+.reminders-head{
+    height:60px;
+    display:flex;
+    align-items:center;
+   padding:0 20px;
+   background-color:maroon;
+   color:#fff;
+   font-size:20px;
+   font-weight:bold;
+}
+.reminders-body{
+    height:calc(100% - 60px);
+   
+}
+.reminder{
+    height:70px;
+    display:flex;   
+    align-items:center;
+    padding:5px 10px;
+}
+.rem {
+    height: 30px;
+    font-weight: bold;
+    color: #f57f7f;
+    display: flex;
+    align-items: center;
+    padding: 5px 10px;
+}
+
+
+/*GRADES*/
+
+.school-year{
+    height:150px;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+}
+.school-year .status{
+
+      height:100%;
+      width:50%;
+      background-color:#ddd;
+      padding: 20px;
+
+}
+.school-year .status .status-child{
+    margin-bottom:5px;
+    height:50%;
+    display:flex;
+    align-items:center;
+    font-size:18px;
+    font-weight:bold;
+    background-color:#fff;
+}
+.school-year .status .status-child h3{
+
+    height:100%;
+    width:40%;
+    display:flex;
+    align-items:center;
+    padding:0 40px;
+}
+.school-year .status .status-child .lbl-status{
+    margin-left:20px;
+    font-weight:400;
+}
+
+.ddlist{
+    height:50px;
+    padding:5px 10px;
+}
+.ddlist .form-select{
+    width:100%;
+    height:100%;
+    padding:0 10px;
+    font-size:20px;
+}
+
+
+.gridContainer {
+    width: 100%;
+    height:calc(100% - 260px);
+    overflow: scroll;
+    background-color:#fff;
+    text-align:center;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+}
+table th{
+    padding:10px;
+   
+}
+
+::-webkit-scrollbar-track {
+    background: transparent;
+}
+
+::-webkit-scrollbar-thumb {
+    background: #f57f7f;
+    border-radius: 4px;
+}
+
+
+
+/*StudentRegistration*/
+
+.filter {
+    height: 110px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #ddd;
+    padding: 20px;
+}
+
+.filter .s-year, .filter .semester{
+    width:35%;
+    height:100%;
+   display:flex;
+    align-items:center;
+    background-color:#fff;
+}
+.filter .s-year span, .filter .semester span{
+    width:30%;
+    height:100%;
+      display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:20px;
+    font-weight:bold;
+}
+.filter .s-year div, .filter .semester div{
+    padding:10px;
+
+    height:100%;
+    width:calc(100% - 30%);
+}
+.filter .s-year .form-control, .filter .semester .form-control{
+    width:100%;
+    height:100%;
+    padding:0 10px;
+    font-size:20px;
+}
+
+.filter .buttons{
+    padding: 0 10px;
+    width:calc(100% - 70%);
+    height:100%;
+   display:flex;
+    align-items:center;
+    background-color:#fff;
+}
+.filter .buttons .filter-btn{
+    padding:10px 20px;
+    margin:0 10px;
+    font-size:16px;
+    font-weight:bold;
+    color:#fff;
+    transition:0.3s all ease;
+    border-radius:10px;
+    border-color:transparent;
+    cursor:pointer;
+}
+.filter-btn:first-child {
+    background-color: #f57f7f;
+}
+.filter-btn:last-child {
+    background-color: #0072fe;
+}
+
+.information {
+    display: flex;
+    align-items: center;
+    height: 160px;
+    margin: 10px 0;
+}
+.information .left,.information .right{
+    width:50%;
+    height:100%;
+}
+.information .left .rows,.information .right .rows{
+    display:flex;
+    align-items:center;
+    height:40px;
+}
+.information .left .rows .txt, .information .right .rows .txt{
+    width:30%;
+    height:100%;
+     display:flex;
+    align-items:center;
+    padding-left: 50px;
+    font-size:18px;
+}
+.information .left .rows .data, .information .right .rows .data{
+    width:calc(100% - 30%);
+     height:100%;
+     display:flex;
+    align-items:center;
+    padding:0 10px;
+}
+
+.datagrid{
+    height:calc(100% - 340px);
+   
+}
+.datagrid h3{
+    height:50px;
+    display:flex;   
+    align-items:center;
+    padding:0 20px;
+    font-weight:bold;
+    color:maroon;
+    font-size:25px;
+}
+
+
+#regFormModal {
+    position: fixed;
+    top: 50%;
+    left: 60%;
+    transform: translate(-60%, -50%);
+    background-color: #fff;
+    z-index: 1000;
+    width: 60%;
+    height: 770px;
+    display: none;
+    overflow-y:auto ;
+    
+}
+
+#bg-blur {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.8);
+    filter: blur(8px);
+    -webkit-filter: blur(8px);
+    z-index: 999;
+    display: none;
+}
+.sy{
+    height:20px;
+    display:flex;
+    align-items:center;
+    padding:0 15px;
+}
+.head-form{
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    height:170px;
+ margin-bottom:10px;
+ border-bottom:2px solid black;
+}
+.head-form .logo{
+    width:25%;
+     height:100%;
+     padding:20px;
+     display:flex;
+     align-items:center;
+     justify-content:center;
+}
+.head-form .logo img{
+    height:100%;
+    width:80%;
+    object-fit:fill;
+}
+.head-form .head-txt{
+    width:50%;
+    height:100%;
+}
+.head-form .head-txt h2{
+    height:70px;
+
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:25px;
+    letter-spacing:1px;
+    color:maroon;
+    text-align:center;
+}
+.head-form .head-txt span{
+    height:40px;
+    
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:20px;
+    letter-spacing:1px;
+}
+.head-form .head-txt p{
+    height:calc(100% - 110px);
+      display:flex;
+    align-items:center;
+    justify-content:center;
+    font-size:16px;
+    letter-spacing:1px;
+    text-align:center;  
+}
+.datagrid1 {
+    height:400px;
+    
+}
+.datagrid1 h3 {
+    height: 50px;
+    display: flex;
+    align-items: center;
+    padding: 0 20px;
+    font-weight: bold;
+    color: maroon;
+    font-size: 25px;
+}
+.gridContainer1 {
+    height: calc(100% - 50px);
+    overflow-y: auto;
+}
+
+.form-btn{
+    height:calc(100% - 710px);
+    display:flex;
+    align-items:center;
+    justify-content:flex-end;
+    padding:0 20px;
+}
+.form-btn .buttons-form{
+    padding:10px 20px;
+    border-color:transparent;
+    margin:0 10px;
+    color:#fff;
+    border-radius:10px;
+    cursor:pointer;
+    transition:0.3s all ease;
+}
+.form-btn .buttons-form:first-child{
+
+     background-color: #0072fe;
+}
+.form-btn .buttons-form:last-child{
+  background-color:#808080;
+}
+.form-btn .buttons-form:hover{
+    opacity:0.5;
+}

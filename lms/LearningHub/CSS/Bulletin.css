@@ -1,0 +1,281 @@
+﻿.MainContentHolder {
+    display: flex;
+    height: 100%
+}
+
+
+.CardSide {
+    border: solid orange;
+    width: 75%;
+    height: 100%;
+}
+
+.Holder {
+    display: inline-grid;
+    justify-content: center;
+    align-content: center;
+}
+
+.ButtonLoc {
+    display: grid;
+    align-content: center;
+    justify-content: center;
+}
+
+.CardHolder {
+    border: solid;
+}
+
+
+
+table {
+    height: 80%;
+}
+
+td {
+    width: 30%;
+    height: 20%;
+    border: solid;
+}
+
+.CardDiv {
+    display: flex;
+    height: 80%;
+    padding: 10px;
+    border: solid black;
+    background-color: rgba(1, 1, 1, 0.3);
+}
+
+.CardImage {
+    width: 30%;
+}
+
+.CardInfo {
+    display: flex;
+    flex-direction: column;
+    font-size: 20px;
+}
+
+.CardDP {
+    width: 80%;
+    border-radius: 50%;
+    transition: transform 0.2s;
+}
+
+.CardImage:hover .CardDP {
+    transform: scale(1.1);
+}
+
+.label {
+    padding-bottom: 20px;
+}
+
+.MoreButton {
+    width: 80%;
+    margin: auto;
+}
+
+.div.Availability {
+    margin-right: 200px;
+}
+
+.div.Holder {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.CardSideContainer {
+    max-height: 84%;
+    overflow-y: auto;
+}
+
+.CardDiv {
+    border: 1px solid #ddd;
+    border-radius: 5px;
+    margin: 10px;
+    padding: 15px;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+
+.CardImage img {
+    max-width: 100%;
+}
+
+.MoreButton {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+    .MoreButton:hover {
+        background-color: #c4770a;
+        color: #fff;
+    }
+
+.label {
+    font-weight: bold;
+    margin: 5px 0;
+    font-family: monospace;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+
+.Content {
+    background-color: #fff;
+    padding: 20px;
+    color: white;
+    text-align: center;
+    font: bold;
+    display: flex;
+}
+
+.FilterSide {
+    margin-bottom: 20px;
+    font-family: 'Raleway',sans-serif;
+    font-size: 18px;
+    font: bold;
+}
+
+p {
+    font-weight: bold;
+    margin: 10px 0;
+}
+
+.Strands, .Yearlvl, .Availability, .Location {
+    margin-bottom: 20px;
+}
+
+.Holder {
+    margin-bottom: 10px;
+    font-family: 'Raleway',sans-serif;
+}
+
+input[type="radio"], input[type="checkbox"] {
+    margin-right: 15px;
+}
+
+.label {
+    display: inline-block;
+    vertical-align: middle;
+    font-size: 17px;
+    color: white;
+    font-family: monospace;
+}
+
+
+
+#Submit {
+    background-color: orange;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+    #Submit:hover {
+        background-color: #45a049;
+        transform: scale(1.05);
+    }
+
+#Clear {
+    background-color: saddlebrown;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-weight: bold;
+    transition: background-color 0.3s, transform 0.2s;
+}
+
+    #Clear:hover {
+        background-color: #45a049;
+        transform: scale(1.05);
+    }
+
+.MoreButton {
+}
+
+.more-button {
+    background-color: orange;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+    .more-button:hover {
+        background-color: saddlebrown;
+    }
+
+.ConnectButton {
+    background-color: orange;
+    color: #ffffff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    font-size: 16px;
+    padding-top: 10px;
+    margin-top: 10px;
+}
+
+    .ConnectButton:hover {
+        background-color: saddlebrown;
+    }
+
+.HiddenDiv {
+    display: none;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #fff;
+    padding: 20px;
+    border: 1px solid #ccc;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    max-width: 400px;
+    width: 80%;
+    text-align: center;
+    color: black;
+}
+
+    .HiddenDiv .close {
+        position: absolute;
+        top: 10px;
+        right: 10px;
+        font-size: 20px;
+        cursor: pointer;
+    }
+
+    .HiddenDiv img {
+        max-width: 100%;
+        height: auto;
+        border-radius: 50%;
+    }
+
+    .HiddenDiv button {
+        background-color: saddlebrown;
+        color: #fff;
+        padding: 10px 20px;
+        border: none;
+        border-radius: 5px;
+        cursor: pointer;
+        margin-top: 10px;
+    }

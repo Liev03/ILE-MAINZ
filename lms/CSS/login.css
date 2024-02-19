@@ -1,0 +1,137 @@
+﻿* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style-type: none;
+    overflow: hidden;
+}
+
+.login {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+
+.login-img {
+    width: 60%;
+    height: 100%;
+    flex: 1;
+}
+
+    .login-img img {
+        width: 100%;
+        height: 100%;
+        object-fit: fill;
+        position: relative;
+    }
+
+    .login-img h2 {
+        width: 60%;
+        height: 100%;
+        position: absolute;
+        top: 0;
+        left: 0;
+        background: rgba(0, 0, 0, 0.8);
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin: auto;
+        color: white;
+        font-size: 40px;
+    }
+
+.login-page {
+    height: 100%;
+    width: 40%;
+  /*  background-color: #eb4d4d;*/
+  background-color:maroon;
+    padding: 40px;
+}
+
+    .login-page form {
+        height: 100%;
+        width: 100%;
+    }
+
+.login-logo {
+    text-align: center;
+}
+
+    .login-logo img {
+        width: 250px;
+    }
+
+    .login-logo h2 {
+        margin-top: 20px;
+        font-size: 30px;
+        color: white;
+    }
+
+form .container {
+    padding: 70px;
+    margin-top: 20px;
+}
+
+.container label {
+    font-size: 15px;
+    font-family: Arial;
+}
+
+input[type=text], input[type=password] {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+.container .show-pass {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+  
+    margin-top: 5px;
+}
+.container  .show-pass a{
+    color:#fff;
+   
+}
+.container  .show-pass a:hover{
+    color:blueviolet;
+}
+.btn {
+    background-color: #fff;
+    color: #000;
+    padding: 14px 20px;
+    margin: 15px 0;
+    border: none;
+    cursor: pointer;
+    width: 100%;
+    border-radius: 10px;
+    font-weight: 500;
+    font-size: 18px;
+    border:1px solid #fff;
+    transition: 0.3s all ease;
+}
+.btn:hover {
+   background-color: #f57f7f;
+   color:#fff;
+}
+.container .required{
+    padding:10px;
+}
+
+
+
+
+.container {
+    padding: 16px;
+}
+

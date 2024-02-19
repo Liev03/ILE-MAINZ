@@ -1,0 +1,80 @@
+﻿
+.dashboard {
+    background-color: #fff;
+    height: 100%;
+    width: 100%;
+    display: flex;
+    justify-content: flex-start;
+    padding: 20px;
+    flex-wrap: wrap;
+    overflow-y: scroll;
+}
+.dashboard::-webkit-scrollbar {
+    width: 1px;
+   
+}
+
+.dashboard::-webkit-scrollbar-thumb {
+    background-color: transparent;
+    border-radius: 6px;
+}
+
+.dashboard::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+.dash-list {
+    width: 350px;
+    height: 180px;
+    background-color: #f57f7f;
+    margin: 10px;
+    border-radius: 15px;
+    transition: 0.3s all ease;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.5);
+}
+.dash-list:hover{
+      box-shadow: 0 6px 12px rgba(0, 0, 0, 0.8);
+}
+.dash-list .text{
+    flex:1;
+   
+    font-family:'Times New Roman';
+    font-weight:bold;
+    font-size:28px;
+   padding:10px; 
+     color:#fff;
+     height:50px;
+}
+
+.dash-list .icon-num{
+    display:flex;
+    align-items:center; 
+    height:calc(100% - 50px);
+     padding: 10px;
+   
+}
+.dash-list .icon-num span{
+    flex:3;
+    
+     height:100%;
+     display:flex;
+     align-items:center;
+  
+     font-size:55px;
+     color:#fff;
+     padding: 0 20px;
+     
+}
+.dash-list .icon-num i{
+ 
+       display:flex;    
+       align-items:center;
+    justify-content:center;
+    font-size:55px;
+   padding:15px;
+   border-radius:50%;
+  background-color:#fff;
+   color:#eb4d4d;
+   border:5px solid #eb4d4d;
+  
+}

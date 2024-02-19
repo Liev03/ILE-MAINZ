@@ -1,0 +1,151 @@
+﻿
+
+.subjects {
+ 
+    background-color: white;
+    height: 100%;
+    width: 100%;
+    padding: 10px 30px 0 0;
+
+}
+
+.search-subject{
+ 
+    height:60px;
+    width:100%;
+    display:flex;   
+}
+.search-subj {
+    flex: 1;
+  
+    height:100%;
+    display:flex;
+    align-items:center;
+    justify-content:center;
+    padding:5px 10px;
+    position:relative;
+}
+.search-subj .subj-txt{
+    width:100%;
+    border-radius:15px;
+    padding:10px 50px 10px 20px;
+    height:100%;
+    font-size:18px;
+   
+}
+.search-subj i{
+    position:absolute;
+    top:18px;
+    right:20px;
+    font-size:25px;
+   
+    
+}
+.search-subj2 {
+    flex: 1;
+  
+    height: 100%;
+}
+
+.room-lists {
+    width: 100%;
+    padding: 5px 20px;
+    margin-top:10px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: flex-start;
+    flex-wrap: wrap;
+  border:1px solid red;
+  height:calc(100% - 70px);
+   overflow-y:auto;
+}
+.room-lists::-webkit-scrollbar {
+    width: 10px;
+}
+
+.room-lists::-webkit-scrollbar-thumb {
+    background-color: #eb4d4d;
+    border-radius: 6px;
+}
+
+
+.room-lists::-webkit-scrollbar-track {
+    background-color: transparent;
+}
+
+.room-lists .room-card {
+    display:inline-block;
+
+    border: 1px solid #808080;
+    height: 320px;
+    width: 400px;
+    margin: 10px;
+    transition:0.3s all ease;
+}
+.room-lists .room-card:hover{
+    transform:scale(1.0.5);
+      border: 1px solid red;
+}
+.room-card .room-image{
+    height:180px;
+    width:100%;
+  
+    overflow:hidden;
+}
+.room-card .room-image img{
+    width:100%;
+    height:100%;
+    object-fit:fill;
+}
+.room-card .room-sched {
+  
+    height:calc(100% - 180px);
+    width: 100%;
+
+}
+.room-card .room-sched span{
+    font-family:Arial;
+}
+.room-card .room-subj {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0 10px;
+    color: #eb4d4d;
+    text-align: center;
+    font-size: 17px;
+   
+    font-weight:bold;
+    height:50px;
+  
+}
+
+.room-card .room-sched .room-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 10px;
+    font-size: 12px;
+}
+.room-card .room-sched .room-buttons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+ 
+    margin-top:10px;
+}
+.room-buttons .room-btn {
+    padding: 5px 10px;
+   margin:0 5px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #eb4d4d;
+    transition:0.3s all ease;
+    font-size:15px;
+    font-family:'Times New Roman';
+}
+.room-buttons .room-btn:hover{
+    color:#000;
+     background-color: transparent;
+     outline:1px solid black;
+}
