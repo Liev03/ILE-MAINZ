@@ -2,15 +2,16 @@
 .GrandHolder {
     border: solid;
     border-color: white;
-    color: white;
+    color: black;
     width: 90%;
     margin: auto;
     margin-top: 40px;
-    background-image: url('/Images/novahigh.png');
+    background-image: url('IMAGES/newbg.jpg');
     background-repeat: no-repeat;
     background-size: cover;
     padding: 20px;
     border-radius: 10px;
+
 }
 
 .TopPart {
@@ -32,8 +33,7 @@
 
     .ContactHolder h2 {
         margin-bottom: 0;
-    }
-
+    }  
 .ImagePF {
     display: block;
     width: 100%;

@@ -269,6 +269,7 @@
     <Content Include="LearningHub\CSS\Account.css" />
     <Content Include="LearningHub\CSS\Bulletin.css" />
     <Content Include="LearningHub\CSS\Dashboard.css" />
+    <Content Include="LearningHub\CSS\IMAGES\newbg.jpg" />
     <Content Include="LearningHub\CSS\IMAGES\novahigh.png" />
     <Content Include="LearningHub\CSS\MakeRequest.css" />
     <Content Include="LearningHub\CSS\Notif.css" />
