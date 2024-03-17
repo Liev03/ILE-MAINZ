@@ -7,6 +7,7 @@
     text-align: center;
     font-family: Arial, sans-serif;
     transition: transform 0.2s;
+    color:black;
 }
 
     .PostRequestHolder:hover {
@@ -15,7 +16,7 @@
 
 .TopPart {
     display: inline-flex;
-    color: white;
+    color: black;
     align-items: center;
 }
 
@@ -48,6 +49,7 @@
 
 .InfoLabel {
     padding-top: 10px;
+    color:black;
 }
 
 .BottomPart {
@@ -55,11 +57,11 @@
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    border: 1px solid #ff6a00;
+    border: 1px solid black;
     padding: 4px;
     text-align: center;
     font-size: 10px;
-    color: white;
+    color:black;
     font-size: small;
 }
 
@@ -90,7 +92,7 @@
 /* Para sa submit button kineme */
 #ReqSubmit {
     background-color: #ff5722;
-    color: #fff;
+    color: black;
     padding: 10px 20px;
     border: none;
     border-radius: 5px;
@@ -114,7 +116,7 @@ input[type="radio"], input[type="checkbox"] {
 }
 
 .PostRequestHolder {
-    background: linear-gradient(to right, #ff6a00, #ff9933);
+    background: linear-gradient(to bottom right, #9ad3de, #1a6f8c);
 }
 
 .RequestImage {
@@ -123,11 +125,11 @@ input[type="radio"], input[type="checkbox"] {
 }
 
 .InfoLabel {
-    color: white;
+    color: black;
 }
 
 .BottomPart {
-    background: linear-gradient(to right, #ff9933, #ffcc66);
+    background: linear-gradient(to bottom right, #9ad3de, #5d9ea4);
 }
 
 .BottomPart {
@@ -135,7 +137,7 @@ input[type="radio"], input[type="checkbox"] {
 }
 
 #ReqSubmit {
-    border: 1px solid white;
+    border: 1px solid black;
     box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.2);
 }
 
@@ -179,14 +181,14 @@ input[type="radio"], input[type="checkbox"] {
     flex-direction: column;
     align-items: center;
     justify-content: center;
-    color: white;
+    color: black;
 }
 
 .InfoLabel {
     margin: 5px 0;
     font-size: 20px;
     color: #333;
-    color: white;
+    color: black;
 }
 
 .HoldInfos {

@@ -2,8 +2,10 @@
   "ExpandedNodes": [
     "",
     "\\lms",
-    "\\lms\\Account"
+    "\\lms\\Account",
+    "\\lms\\LearningHub",
+    "\\lms\\LearningHub\\CSS"
   ],
-  "SelectedNode": "\\lms\\Account\\Login.aspx",
+  "SelectedNode": "\\lms\\Account\\Login.aspx.cs",
   "PreviewInSolutionExplorer": false
 }
