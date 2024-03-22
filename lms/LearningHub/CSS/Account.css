@@ -1,68 +1,92 @@
-﻿
-.GrandHolder {
-    border: solid;
-    border-color: white;
-    color: black;
-    width: 90%;
-    margin: auto;
-    margin-top: 40px;
-    background-image: url('IMAGES/newbg.jpg');
-    background-repeat: no-repeat;
-    background-size: cover;
-    padding: 20px;
-    border-radius: 10px;
-
+﻿.Content {
+    display: flex;
+    justify-content: center; /* Center content horizontally */
+    align-items: center; /* Center content vertically */
+    padding: 40px; /* Increased padding */
+    font-size: 18px; /* Increased font size */
+    color:black;
 }
 
+/* Style for the grand holder */
+.GrandHolder {
+    border: 1px solid #ccc;
+    padding: 20px;
+    background: linear-gradient(to bottom right, #9ad3de, #1a6f8c);
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    border-radius: 10px; /* Rounded corners */
+    overflow: hidden; /* Hide overflowing content */
+    flex-direction: column;
+}
+
+/* Style for the top part */
 .TopPart {
     display: flex;
-    color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    justify-content: space-between;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 20px;
+    
+
 }
 
-.InfoHolder,
-.ContactHolder {
-    width: 40%;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    gap: 10px;
-    padding-top: 10px;
+/* Style for the image holder */
+.ImageHolder {
+    flex: 0 0 auto;
+    margin-right: 20px;
+    border-radius: 50%; /* Make the image holder circular */
+    overflow: hidden; /* Hide overflowing content */
 }
 
-    .ContactHolder h2 {
-        margin-bottom: 0;
-    }  
+/* Style for the image */
 .ImagePF {
-    display: block;
-    width: 100%;
-    border-radius: 50%;
+    width: 100px; /* Adjust the width as needed */
+    height: 100px; /* Set height to match width for a circular shape */
+    border-radius: 50%; /* Make the image circular */
 }
 
+/* Style for the info holder */
+.InfoHolder {
+    flex: 1;
+    margin-right: 20px;
+    font:bolder;
+    display:flex;
+    flex-direction:column;
+    padding-left:20px;
+    margin-bottom:10px;
+}
+    .InfoHolder label {
+        display: block;
+        padding-bottom: 2%; /* Add padding below each line */
+    }
+/* Style for the contact holder */
+.ContactHolder {
+    flex: 1;
+}
+
+
+
+/* Style for the bottom part */
 .BottomPart {
-    padding: 20px;
-    border: solid;
-    border-color: white;
-    color: white;
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    margin: 5px 0;
-    text-align: center;
-    border-radius: 10px;
+    padding-top: 20px;
+    border-top: 1px solid #ccc;
+    background: linear-gradient(to bottom right, #9ad3de, #5d9ea4);
+    text-align:center;
+    width:100%;
 }
 
-#editBioForm {
-    background: white;
-    padding: 20px;
-    border-radius: 10px;
+    /* Style for the bio section */
+    .BottomPart h1 {
+        margin-bottom: 10px;
+      
+    }
+
+/* Style for the edit bio form */
+.hidden-form {
+    display: flex; /* Use flexbox for layout */
+    flex-direction: column; /* Stack children vertically */
+    align-items: center; /* Center children horizontally */
 }
 
-.Logout {
-    padding: 20px;
-}
-
-.blog {
-    width: 100%;
-    height: 50px;
-    border-radius: 5px;
+/* Style for the bio textarea */
+#BioTextarea {
+    margin-bottom: 10px; /* Add space below the textarea */
 }

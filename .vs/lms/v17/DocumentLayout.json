@@ -3,68 +3,72 @@
   "WorkspaceRootPath": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\learninghub\\css\\makerequest.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\css\\makerequest.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\account\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\account\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
       "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\account\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\account\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\account\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\account\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\account\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\account\\logout.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\account\\logout.aspx.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\account\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\account\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\account\\myaccountprof.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\account\\myaccountprof.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\account\\myaccountstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\account\\myaccountstudent.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\account\\reset_password.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\account\\reset_password.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\account\\studentreg.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\account\\studentreg.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\admin\\professoracc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\admin\\professoracc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\learninghub\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\learninghub\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\learninghub\\css\\notif.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\css\\notif.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\learninghub\\css\\progresstracker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\css\\progresstracker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\learninghub\\tuteenotif.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\tuteenotif.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\learninghub\\css\\bulletin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\css\\bulletin.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\learninghub\\bulletintutee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\bulletintutee.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\learninghub\\css\\makerequest.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\css\\makerequest.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\learninghub\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\css\\account.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\learninghub\\account.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\account.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\learninghub\\makerequest.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\makerequest.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\professor\\studentinvite.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\professor\\studentinvite.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\professor\\studentinvite.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\professor\\studentinvite.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\account\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\account\\login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\account\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\account\\logout.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\account\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\account\\logout.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\admin\\professoracc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\admin\\professoracc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\learninghub\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\css\\dashboard.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\learninghub\\css\\progresstracker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\learninghub\\css\\progresstracker.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\professor\\editclasswork.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -135,20 +139,12 @@
       "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\professor\\writeemail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\professor\\studentinvite.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\professor\\studentinvite.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\student\\writeemail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\student\\writeemail.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\student\\invitations.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\student\\invitations.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\professor\\studentinvite.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
-      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\professor\\studentinvite.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\professor\\viewclasswork.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -231,67 +227,29 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "MakeRequest.css",
-              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\MakeRequest.css",
-              "RelativeDocumentMoniker": "lms\\LearningHub\\CSS\\MakeRequest.css",
-              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\MakeRequest.css",
-              "RelativeToolTip": "lms\\LearningHub\\CSS\\MakeRequest.css",
-              "ViewState": "AQIAACEAAAAAAAAAAAAAADsAAAAbAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-17T05:55:49.158Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Logout.aspx.designer.cs",
-              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Logout.aspx.designer.cs",
-              "RelativeDocumentMoniker": "lms\\Account\\Logout.aspx.designer.cs",
-              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Logout.aspx.designer.cs",
-              "RelativeToolTip": "lms\\Account\\Logout.aspx.designer.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T05:48:31.86Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Logout.aspx",
-              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Logout.aspx",
-              "RelativeDocumentMoniker": "lms\\Account\\Logout.aspx",
-              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Logout.aspx",
-              "RelativeToolTip": "lms\\Account\\Logout.aspx",
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Login.aspx",
+              "RelativeDocumentMoniker": "lms\\Account\\Login.aspx",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Login.aspx",
+              "RelativeToolTip": "lms\\Account\\Login.aspx",
               "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-17T05:48:24.628Z",
+              "WhenOpened": "2024-02-25T04:43:20.004Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "MyAccountProf.aspx",
-              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\MyAccountProf.aspx",
-              "RelativeDocumentMoniker": "lms\\Account\\MyAccountProf.aspx",
-              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\MyAccountProf.aspx",
-              "RelativeToolTip": "lms\\Account\\MyAccountProf.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-17T05:47:00.604Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "MyAccountStudent.aspx",
-              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\MyAccountStudent.aspx",
-              "RelativeDocumentMoniker": "lms\\Account\\MyAccountStudent.aspx",
-              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\MyAccountStudent.aspx",
-              "RelativeToolTip": "lms\\Account\\MyAccountStudent.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-17T05:46:59.458Z",
-              "EditorCaption": ""
+              "Title": "Account.css",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\Account.css",
+              "RelativeDocumentMoniker": "lms\\LearningHub\\CSS\\Account.css",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\Account.css",
+              "RelativeToolTip": "lms\\LearningHub\\CSS\\Account.css",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADkAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-15T03:13:04.181Z",
+              "IsPinned": true
             },
             {
               "$type": "Bookmark",
@@ -306,99 +264,72 @@
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Reset_Password.aspx",
-              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Reset_Password.aspx",
-              "RelativeDocumentMoniker": "lms\\Account\\Reset_Password.aspx",
-              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Reset_Password.aspx",
-              "RelativeToolTip": "lms\\Account\\Reset_Password.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-17T05:46:57.531Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "StudentReg.aspx",
-              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\StudentReg.aspx",
-              "RelativeDocumentMoniker": "lms\\Account\\StudentReg.aspx",
-              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\StudentReg.aspx",
-              "RelativeToolTip": "lms\\Account\\StudentReg.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-17T05:46:56.199Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ProfessorAcc.aspx",
-              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Admin\\ProfessorAcc.aspx",
-              "RelativeDocumentMoniker": "lms\\Admin\\ProfessorAcc.aspx",
-              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Admin\\ProfessorAcc.aspx",
-              "RelativeToolTip": "lms\\Admin\\ProfessorAcc.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-03-17T05:44:48.808Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Logout.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Logout.aspx.cs",
-              "RelativeDocumentMoniker": "lms\\Account\\Logout.aspx.cs",
-              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Logout.aspx.cs",
-              "RelativeToolTip": "lms\\Account\\Logout.aspx.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T04:43:20.238Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "TuteeNotif.aspx",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\TuteeNotif.aspx",
+              "RelativeDocumentMoniker": "lms\\LearningHub\\TuteeNotif.aspx",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\TuteeNotif.aspx",
+              "RelativeToolTip": "lms\\LearningHub\\TuteeNotif.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-19T13:35:52.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BulletinTutee.aspx",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\BulletinTutee.aspx",
+              "RelativeDocumentMoniker": "lms\\LearningHub\\BulletinTutee.aspx",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\BulletinTutee.aspx",
+              "RelativeToolTip": "lms\\LearningHub\\BulletinTutee.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-19T13:31:20.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MakeRequest.css",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\MakeRequest.css",
+              "RelativeDocumentMoniker": "lms\\LearningHub\\CSS\\MakeRequest.css",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\MakeRequest.css",
+              "RelativeToolTip": "lms\\LearningHub\\CSS\\MakeRequest.css",
+              "ViewState": "AQIAAIoAAAAAAAAAAAAAAJkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-03-17T07:39:57.21Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Logout.aspx",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Logout.aspx",
+              "RelativeDocumentMoniker": "lms\\Account\\Logout.aspx",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Logout.aspx",
+              "RelativeToolTip": "lms\\Account\\Logout.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-17T05:48:24.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Login.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Account\\Login.aspx.cs",
               "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Login.aspx.cs",
               "RelativeToolTip": "lms\\Account\\Login.aspx.cs",
-              "ViewState": "AQIAABMAAAAAAAAAAAAQwAwBAABBAAAA",
+              "ViewState": "AQIAAD8AAAAAAAAAAAAYwB8BAAAEAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T04:43:20.24Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T04:43:20.24Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Login.aspx",
-              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Login.aspx",
-              "RelativeDocumentMoniker": "lms\\Account\\Login.aspx",
-              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Login.aspx",
-              "RelativeToolTip": "lms\\Account\\Login.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
-              "WhenOpened": "2024-02-25T04:43:20.004Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "Account.css",
-              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\Account.css",
-              "RelativeDocumentMoniker": "lms\\LearningHub\\CSS\\Account.css",
-              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\Account.css",
-              "RelativeToolTip": "lms\\LearningHub\\CSS\\Account.css",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACMAAAAFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-03-15T03:13:04.181Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Dashboard.css",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\Dashboard.css",
               "RelativeDocumentMoniker": "lms\\LearningHub\\CSS\\Dashboard.css",
@@ -410,19 +341,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 3,
               "Title": "Bulletin.css",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\Bulletin.css",
               "RelativeDocumentMoniker": "lms\\LearningHub\\CSS\\Bulletin.css",
               "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\Bulletin.css",
               "RelativeToolTip": "lms\\LearningHub\\CSS\\Bulletin.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAL0AAAAAAAAAAAAIwAcBAAAYAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-03-15T03:14:14.923Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 16,
               "Title": "ProgressTracker.css",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\ProgressTracker.css",
               "RelativeDocumentMoniker": "lms\\LearningHub\\CSS\\ProgressTracker.css",
@@ -434,23 +365,91 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "Notif.css",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\Notif.css",
               "RelativeDocumentMoniker": "lms\\LearningHub\\CSS\\Notif.css",
               "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\CSS\\Notif.css",
               "RelativeToolTip": "lms\\LearningHub\\CSS\\Notif.css",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAATAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
               "WhenOpened": "2024-03-15T03:10:43.241Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MakeRequest.aspx",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\MakeRequest.aspx",
+              "RelativeDocumentMoniker": "lms\\LearningHub\\MakeRequest.aspx",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\MakeRequest.aspx",
+              "RelativeToolTip": "lms\\LearningHub\\MakeRequest.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-17T08:04:15.002Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 7,
+              "Title": "Account.aspx",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\Account.aspx",
+              "RelativeDocumentMoniker": "lms\\LearningHub\\Account.aspx",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\LearningHub\\Account.aspx",
+              "RelativeToolTip": "lms\\LearningHub\\Account.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-17T09:16:44.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "StudentInvite.aspx",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\StudentInvite.aspx",
+              "RelativeDocumentMoniker": "lms\\Professor\\StudentInvite.aspx",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\StudentInvite.aspx",
+              "RelativeToolTip": "lms\\Professor\\StudentInvite.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-02-25T04:43:20.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentInvite.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\StudentInvite.aspx.cs",
+              "RelativeDocumentMoniker": "lms\\Professor\\StudentInvite.aspx.cs",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\StudentInvite.aspx.cs",
+              "RelativeToolTip": "lms\\Professor\\StudentInvite.aspx.cs",
+              "ViewState": "AQIAAIYAAAAAAAAAAAAwwKUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T04:43:20.243Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Logout.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Logout.aspx.cs",
+              "RelativeDocumentMoniker": "lms\\Account\\Logout.aspx.cs",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Logout.aspx.cs",
+              "RelativeToolTip": "lms\\Account\\Logout.aspx.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-25T04:43:20.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ProfessorAcc.aspx",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Admin\\ProfessorAcc.aspx",
+              "RelativeDocumentMoniker": "lms\\Admin\\ProfessorAcc.aspx",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Admin\\ProfessorAcc.aspx",
+              "RelativeToolTip": "lms\\Admin\\ProfessorAcc.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-17T05:44:48.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
               "Title": "StudentManagement.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\sis\\SISPAGES\\StudentManagement.aspx",
               "RelativeDocumentMoniker": "lms\\sis\\SISPAGES\\StudentManagement.aspx",
@@ -462,7 +461,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "StudentManagement.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\sis\\SISPAGES\\StudentManagement.aspx.cs",
               "RelativeDocumentMoniker": "lms\\sis\\SISPAGES\\StudentManagement.aspx.cs",
@@ -474,7 +473,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "WriteNotifProf.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Admin\\WriteNotifProf.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Admin\\WriteNotifProf.aspx.cs",
@@ -486,7 +485,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "Classwork.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\Classwork.aspx",
               "RelativeDocumentMoniker": "lms\\Professor\\Classwork.aspx",
@@ -498,7 +497,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "editClasswork.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\editClasswork.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Professor\\editClasswork.aspx.cs",
@@ -510,7 +509,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "AddTeacher.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Admin\\AddTeacher.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Admin\\AddTeacher.aspx.cs",
@@ -522,7 +521,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Classwork.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\Classwork.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Professor\\Classwork.aspx.cs",
@@ -534,7 +533,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "Invitations.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\Invitations.aspx",
               "RelativeDocumentMoniker": "lms\\Student\\Invitations.aspx",
@@ -546,7 +545,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "editProf.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Admin\\editProf.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Admin\\editProf.aspx.cs",
@@ -558,7 +557,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "SectionManagement.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\sis\\SISPAGES\\SectionManagement.aspx",
               "RelativeDocumentMoniker": "lms\\sis\\SISPAGES\\SectionManagement.aspx",
@@ -570,7 +569,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "WriteNotif.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Admin\\WriteNotif.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Admin\\WriteNotif.aspx.cs",
@@ -582,7 +581,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ManageUser.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\sis\\SISPAGES\\ManageUser.aspx.cs",
               "RelativeDocumentMoniker": "lms\\sis\\SISPAGES\\ManageUser.aspx.cs",
@@ -594,7 +593,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "AddStudent.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Admin\\AddStudent.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Admin\\AddStudent.aspx.cs",
@@ -606,7 +605,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Forgot_Password.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Forgot_Password.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Account\\Forgot_Password.aspx.cs",
@@ -614,12 +613,11 @@
               "RelativeToolTip": "lms\\Account\\Forgot_Password.aspx.cs",
               "ViewState": "AQIAAFMAAAAAAAAAAAAgwGIAAAB7AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-25T04:43:20.234Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-02-25T04:43:20.234Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 30,
+              "DocumentIndex": 31,
               "Title": "Forgot_Password.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Forgot_Password.aspx",
               "RelativeDocumentMoniker": "lms\\Account\\Forgot_Password.aspx",
@@ -631,7 +629,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
+              "DocumentIndex": 36,
               "Title": "viewClasswork.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\viewClasswork.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Professor\\viewClasswork.aspx.cs",
@@ -643,7 +641,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 31,
+              "DocumentIndex": 32,
               "Title": "Reset_Password.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Reset_Password.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Account\\Reset_Password.aspx.cs",
@@ -655,19 +653,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "StudentInvite.aspx.cs",
-              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\StudentInvite.aspx.cs",
-              "RelativeDocumentMoniker": "lms\\Professor\\StudentInvite.aspx.cs",
-              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\StudentInvite.aspx.cs",
-              "RelativeToolTip": "lms\\Professor\\StudentInvite.aspx.cs",
-              "ViewState": "AQIAAFkAAAAAAAAAAAAhwF4AAAARAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001384|",
-              "WhenOpened": "2024-02-25T04:43:20.243Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
+              "DocumentIndex": 39,
               "Title": "Classworks.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\Classworks.aspx",
               "RelativeDocumentMoniker": "lms\\Student\\Classworks.aspx",
@@ -679,7 +665,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 32,
+              "DocumentIndex": 33,
               "Title": "WriteEmail.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\WriteEmail.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Professor\\WriteEmail.aspx.cs",
@@ -715,7 +701,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 41,
+              "DocumentIndex": 40,
               "Title": "submitClasswork.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\submitClasswork.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Student\\submitClasswork.aspx.cs",
@@ -727,19 +713,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
-              "Title": "StudentInvite.aspx",
-              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\StudentInvite.aspx",
-              "RelativeDocumentMoniker": "lms\\Professor\\StudentInvite.aspx",
-              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\StudentInvite.aspx",
-              "RelativeToolTip": "lms\\Professor\\StudentInvite.aspx",
-              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000192|",
-              "WhenOpened": "2024-02-25T04:43:20.251Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 37,
               "Title": "viewClasswork.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\viewClasswork.aspx",
               "RelativeDocumentMoniker": "lms\\Professor\\viewClasswork.aspx",
@@ -751,7 +725,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 38,
               "Title": "Classworks.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\Classworks.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Student\\Classworks.aspx.cs",
@@ -763,7 +737,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 42,
+              "DocumentIndex": 41,
               "Title": "submitClasswork.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\submitClasswork.aspx",
               "RelativeDocumentMoniker": "lms\\Student\\submitClasswork.aspx",
@@ -775,7 +749,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 43,
+              "DocumentIndex": 42,
               "Title": "studentClassroom.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\studentClassroom.aspx",
               "RelativeDocumentMoniker": "lms\\Student\\studentClassroom.aspx",
@@ -787,7 +761,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 47,
+              "DocumentIndex": 46,
               "Title": "ClassRegistration.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\sis\\SISPAGES\\ClassRegistration.aspx",
               "RelativeDocumentMoniker": "lms\\sis\\SISPAGES\\ClassRegistration.aspx",
@@ -799,7 +773,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 44,
+              "DocumentIndex": 43,
               "Title": "grades.css",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\CSS\\ProfessorCSS\\grades.css",
               "RelativeDocumentMoniker": "lms\\CSS\\ProfessorCSS\\grades.css",
@@ -811,7 +785,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 45,
+              "DocumentIndex": 44,
               "Title": "Grades.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\Grades.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Professor\\Grades.aspx.cs",
@@ -823,7 +797,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 46,
+              "DocumentIndex": 45,
               "Title": "Grades.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\Grades.aspx",
               "RelativeDocumentMoniker": "lms\\Professor\\Grades.aspx",
@@ -835,7 +809,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 48,
+              "DocumentIndex": 47,
               "Title": "ManageUser.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\sis\\SISPAGES\\ManageUser.aspx",
               "RelativeDocumentMoniker": "lms\\sis\\SISPAGES\\ManageUser.aspx",
@@ -847,7 +821,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 49,
+              "DocumentIndex": 48,
               "Title": "People.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\People.aspx",
               "RelativeDocumentMoniker": "lms\\Student\\People.aspx",
@@ -859,7 +833,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 50,
+              "DocumentIndex": 49,
               "Title": "Forgot_Password.aspx.designer.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Forgot_Password.aspx.designer.cs",
               "RelativeDocumentMoniker": "lms\\Account\\Forgot_Password.aspx.designer.cs",
@@ -871,7 +845,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 51,
+              "DocumentIndex": 50,
               "Title": "ViewAnnouncement.aspx",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\ViewAnnouncement.aspx",
               "RelativeDocumentMoniker": "lms\\Professor\\ViewAnnouncement.aspx",
@@ -883,7 +857,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 52,
+              "DocumentIndex": 51,
               "Title": "FileHandler.ashx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\FileHandler.ashx.cs",
               "RelativeDocumentMoniker": "lms\\Professor\\FileHandler.ashx.cs",
@@ -895,7 +869,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 53,
+              "DocumentIndex": 52,
               "Title": "FileHandler.ashx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\FileHandler.ashx.cs",
               "RelativeDocumentMoniker": "lms\\Student\\FileHandler.ashx.cs",

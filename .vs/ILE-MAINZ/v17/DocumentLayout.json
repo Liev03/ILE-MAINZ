@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\Account\\Login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:lms\\Account\\Login.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -31,6 +35,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Login.aspx",
+              "RelativeDocumentMoniker": "lms\\Account\\Login.aspx",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Login.aspx",
+              "RelativeToolTip": "lms\\Account\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-03-17T11:25:28.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Login.aspx.cs",
               "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Login.aspx.cs",
               "RelativeDocumentMoniker": "lms\\Account\\Login.aspx.cs",
@@ -38,8 +55,7 @@
               "RelativeToolTip": "lms\\Account\\Login.aspx.cs",
               "ViewState": "AQIAAGwAAAAAAAAAAAAAAFUAAABWAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-03-17T06:53:35.819Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-17T06:53:35.819Z"
             },
             {
               "$type": "Bookmark",

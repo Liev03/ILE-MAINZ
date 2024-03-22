@@ -39,13 +39,6 @@
         transform: scale(1.1);
     }
 
-.HoldInfos {
-    width: 50%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-}
 
 .InfoLabel {
     padding-top: 10px;
@@ -158,7 +151,7 @@ input[type="radio"], input[type="checkbox"] {
 }
 
     #ReqSubmit:hover {
-        background-color: #ff0000;
+        background-color: darkblue;
     }
 
 .ImagePF {
@@ -175,14 +168,6 @@ input[type="radio"], input[type="checkbox"] {
         transform: scale(1.1);
     }
 
-.HoldInfos {
-    width: 50%;
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-    justify-content: center;
-    color: black;
-}
 
 .InfoLabel {
     margin: 5px 0;
@@ -192,5 +177,16 @@ input[type="radio"], input[type="checkbox"] {
 }
 
 .HoldInfos {
-    text-align: center;
+    display: grid;
+    flex-direction:column;
+    align-items:center; /* Optional: Centers items vertically */
+    justify-content:flex-start;
 }
+
+    .HoldInfos #Name,
+    .HoldInfos #SID,
+    .HoldInfos #Email,
+    .HoldInfos #Contact {
+        font-weight: bold;
+        margin-right: 20px; /* Optional: Adds spacing between labels */
+    }

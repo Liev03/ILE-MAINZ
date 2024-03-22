@@ -62,12 +62,12 @@
                             <asp:Image ID="ImagePF" runat="server" class="RequestImage" CssClass="ImagePF" />
                         </div>
                         <div class="HoldInfos">
-                            <asp:Label ID="Name" runat="server" Text="Name: Ian Quimming"></asp:Label>
-                            <asp:Label ID="SID" runat="server" Text="Student ID: 19-2020" class="InfoLabel"></asp:Label>
-                            <asp:Label ID="Email" runat="server" Text="Email: Ianquimming@gmail.com" class="InfoLabel"></asp:Label>
-                            <asp:Label ID="Contact" runat="server" Text="Contact No.: 09123456789" class="InfoLabel"></asp:Label>
-                        </div>
+                            <asp:Label ID="Name" runat="server" Text="#" class="InfoLabel"></asp:Label>
+                            <asp:Label ID="SID" runat="server" Text="#" class="InfoLabel"></asp:Label>
+                            <asp:Label ID="Email" runat="server" Text="#" class="InfoLabel"></asp:Label>
+                            <asp:Label ID="Contact" runat="server" Text="#" class="InfoLabel"></asp:Label>
                     </div>
+                        </div>
                     <%--Bottom part na dito--%>
                     <div class="BottomPart">
                         <div class="Looking">
@@ -115,7 +115,7 @@
                     <%--Here end--%>
                 </div>
 
-
+            
             </div>
         </div>
     </form>
