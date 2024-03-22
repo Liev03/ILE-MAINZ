@@ -2,10 +2,7 @@
   "ExpandedNodes": [
     "",
     "\\lms",
-    "\\lms\\Account",
-    "\\lms\\LearningHub",
-    "\\lms\\LearningHub\\CSS"
+    "\\lms\\Professor"
   ],
-  "SelectedNode": "\\lms.sln",
   "PreviewInSolutionExplorer": false
 }
