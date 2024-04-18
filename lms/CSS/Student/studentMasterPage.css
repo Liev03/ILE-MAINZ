@@ -234,3 +234,21 @@ color:#000;
     margin: 30px 0 30px 30px;
     
 }
+.content {
+    display: flex;
+    flex-direction: column-reverse;
+    align-items: first baseline;
+}
+
+.dropdown-item {
+     /* Adjust margin as needed */
+    margin-bottom 100px;
+}
+
+    .dropdown-item select {
+        width: 1100px; /* Adjust width as needed */
+        padding: 8px;
+        border: 1px solid #ccc;
+        border-radius: 4px;
+        box-sizing: border-box;
+    }

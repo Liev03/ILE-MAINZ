@@ -36,11 +36,12 @@ namespace lms.Student
                     {
                         string userEmail = Session["LoggedInUser"] as string;
                         string UserID = Session["ID"] as string;
+                        string name = Session["Name"] as string;
 
 
                         if (!string.IsNullOrEmpty(userEmail))
                         {
-                            lblUserEmail.Text = userEmail;
+                            lblUserEmail.Text = name;
 
                             if (!string.IsNullOrEmpty(UserID))
                             {

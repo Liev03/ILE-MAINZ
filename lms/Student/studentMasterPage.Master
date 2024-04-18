@@ -48,7 +48,7 @@
             <div class="menu">
                  <div class="item-logo">
                      <asp:Image ID="Image1" runat="server" CssClass="img-profile" />                 
-                     <asp:Label ID="lblUserEmail" runat="server" Text="" CssClass="admin-label"></asp:Label> 
+                     <asp:Label ID="Label1" runat="server" Text="Welcome, " CssClass="admin-label"></asp:Label><asp:Label ID="lblUserEmail" runat="server" Text="" CssClass="admin-label"></asp:Label> 
                  </div>
                 <div class="item">
                     <a href="DashBoard.aspx"><i class='bx bxs-dashboard'></i>DashBoard</a>
@@ -71,11 +71,25 @@
             </div>
             </div>
         <main class="content">
+                                            <main class="content">
+    <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+    </asp:ContentPlaceHolder>
+
+    <!-- Dropdown List -->
+    <div class="dropdown-item">
+        <select>
+            <option value="deadline">Deadline</option>
+            <option value=""></option>
+            <option value=""></option>
+            <option value=""></option>
+        </select>
+    </div>
+</main>
             <asp:ContentPlaceHolder ID="body" runat="server">
             </asp:ContentPlaceHolder>
         </main>
 
-
+                
     </div>
 
 
