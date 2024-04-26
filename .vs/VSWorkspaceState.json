@@ -1,6 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\lms",
+    "\\lms\\Professor",
+    "\\lms\\Student"
   ],
+  "SelectedNode": "\\lms\\Professor\\Classwork.aspx",
   "PreviewInSolutionExplorer": false
 }
