@@ -140,7 +140,6 @@ namespace lms.Professor
 
                         if (count == 0)
                         {
-                            SendInvitationEmail(studentemail, subjectname, teacheremail);
 
                             string query = "INSERT INTO invitation (roomid, studentid, teacherid, teacheremail, studentemail, subjectname, status) " +
                                                 "VALUES (@roomid, @studentid, @teacherid, @teacheremail, @studentemail, @subjectname, 'Pending') ";
@@ -173,74 +172,7 @@ namespace lms.Professor
             }
         }
 
-        private void SendInvitationEmail(string studentEmail, string subjectname, string teacheremail)
-        {
-            try
-            {
-                string loggedInUserEmail = Session["LoggedInUserEmail"] as string;
 
-                if (string.IsNullOrEmpty(loggedInUserEmail))
-                {
-                    ShowErrorMessage("Unable to retrieve logged-in user's email.");
-                    return;
-                }
-
-                string smtpConnectionString = ConfigurationManager.ConnectionStrings["MySqlConnection"].ConnectionString;
-
-                using (MySqlConnection smtpConnection = new MySqlConnection(smtpConnectionString))
-                {
-                    smtpConnection.Open();
-
-                    string smtpQuery = "SELECT smtp_email, smtp_password FROM smtp_credentials WHERE smtp_email = @smtp_email";
-
-                    using (MySqlCommand smtpCmd = new MySqlCommand(smtpQuery, smtpConnection))
-                    {
-                        smtpCmd.Parameters.AddWithValue("@smtp_email", loggedInUserEmail);
-
-                        using (MySqlDataReader reader = smtpCmd.ExecuteReader())
-                        {
-                            if (reader.Read())
-                            {
-                                string smtpEmail = reader["smtp_email"].ToString();
-                                string smtpPassword = reader["smtp_password"].ToString();
-
-                                string smtpServer = "smtp.gmail.com";
-                                int smtpPort = 587;
-
-                                using (SmtpClient smtpClient = new SmtpClient(smtpServer, smtpPort))
-                                {
-                                    smtpClient.EnableSsl = true;
-                                    smtpClient.Credentials = new NetworkCredential(smtpEmail, smtpPassword);
-
-                                    string roomLink = "https://localhost:44304/Account/Login.aspx";
-
-
-                                    string subject = $"Novaliches High School: Room Invitation - {subjectname}";
-                                    string body = $"Dear Student, <br/><br/>You have a pending room invitation from {teacheremail} for the subject {subjectname}. " +
-                                        $"<br/>Check your account for details. Click <a href=\"{roomLink}\">here</a> to view the room." +
-                                        $"<br/><br/>Best regards, <br/>{teacheremail}";
-
-
-                                    MailMessage mailMessage = new MailMessage(smtpEmail, studentEmail, subject, body);
-                                    mailMessage.IsBodyHtml = true;
-
-                                    smtpClient.Send(mailMessage);
-                                }
-                            }
-                            else
-                            {
-                                ShowErrorMessage("SMTP credentials not found for the logged-in user's email.");
-                            }
-                        }
-                    }
-                }
-            }
-            catch (Exception ex)
-            {
-                ShowErrorMessage($"Error sending email: {ex.Message}");
-                throw;
-            }
-        }
         private void ShowErrorMessage(string message)
         {
             string script = $"Swal.fire({{ icon: 'error', text: '{message}' }})";

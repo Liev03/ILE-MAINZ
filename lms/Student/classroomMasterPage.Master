@@ -11,7 +11,8 @@
 <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet' />
    <link rel="stylesheet" href="//use.fontawesome.com/releases/v5.0.7/css/all.css" />
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11"></script>
-<script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
+
+
 <link href="../CSS/ProfessorCSS/classroomMasterPage.css" rel="stylesheet" />
   <script src='https://kit.fontawesome.com/a076d05399.js' crossorigin='anonymous'></script>
   <asp:ContentPlaceHolder ID="head" runat="server">
@@ -40,7 +41,33 @@
 
                 </div>
             </div>
+        </div><div class="header-login">
+    <div class="dropdown">
+        <button class="dropdown-toggle">
+            <i class='bx bx-user-circle icon'></i><i class='bx bxs-down-arrow arrow'></i>
+        </button>
+        <div class="dropdown-menu">
+            <a href="/Account/Logout.aspx">
+                <i class="fas fa-sign-out-alt"></i> Logout
+            </a>
         </div>
+<div id="noti_Container">
+    <div id="noti_Counter">7</div>
+    <button id="noti_Button"><i class="fas fa-bell"></i></button>
+    <div id="notifications">
+      <h3>Notifications</h3>
+      <ul>
+        <!-- Example notification items -->
+        <li>Notification 1</li>
+        <li>Notification 2</li>
+        <li>Notification 3</li>
+      </ul>
+      <div class="seeAll"><a href="#">See All</a></div>
+    </div>
+  </div>
+    </div>
+</div>
+
     </header>
     <div class="container">
         <div class="side-bar">
@@ -242,6 +269,23 @@
           });
       });
   </script>
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script>
+      $(document).ready(function () {
+          $('#noti_Button').click(function () {
+              $('#notifications').fadeToggle('fast', 'linear');
+              $('#noti_Counter').fadeOut('slow');
+              return false;
+          });
 
+          $(document).click(function () {
+              $('#notifications').hide();
+          });
+
+          $('#notifications').click(function (e) {
+              e.stopPropagation();
+          });
+      });
+  </script>
 </body>
 </html>

@@ -1,6 +1,11 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\lms",
+    "\\lms\\Account",
+    "\\lms\\CSS",
+    "\\lms\\CSS\\Student",
+    "\\lms\\Student"
   ],
   "PreviewInSolutionExplorer": false
 }

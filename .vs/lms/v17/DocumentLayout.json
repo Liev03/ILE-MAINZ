@@ -1,0 +1,215 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\account\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\account\\login.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\student\\studentclassroom.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\student\\studentclassroom.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\css\\professorcss\\classroommasterpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\css\\professorcss\\classroommasterpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\student\\studentmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\student\\studentmasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\css\\student\\studentmasterpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\css\\student\\studentmasterpage.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\student\\classroommasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\student\\classroommasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\professor\\classwork.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\professor\\classwork.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\professor\\studentinvite.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\professor\\studentinvite.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\professor\\classwork.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\professor\\classwork.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|c:\\users\\ianqu\\source\\repos\\ile-mainz\\lms\\professor\\professormasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{8D5C2B2C-F325-4402-B546-36926AA8EB14}|lms\\lms.csproj|solutionrelative:lms\\professor\\professormasterpage.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Login.aspx",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Login.aspx",
+              "RelativeDocumentMoniker": "lms\\Account\\Login.aspx",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Account\\Login.aspx",
+              "RelativeToolTip": "lms\\Account\\Login.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T02:28:03.821Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "studentMasterPage.css",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\CSS\\Student\\studentMasterPage.css",
+              "RelativeDocumentMoniker": "lms\\CSS\\Student\\studentMasterPage.css",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\CSS\\Student\\studentMasterPage.css*",
+              "RelativeToolTip": "lms\\CSS\\Student\\studentMasterPage.css*",
+              "ViewState": "AQIAAAMBAAAAAAAAAAAAwEABAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-02T03:16:52.827Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "studentMasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\studentMasterPage.Master",
+              "RelativeDocumentMoniker": "lms\\Student\\studentMasterPage.Master",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\studentMasterPage.Master",
+              "RelativeToolTip": "lms\\Student\\studentMasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T03:00:28.292Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "studentClassroom.aspx",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\studentClassroom.aspx",
+              "RelativeDocumentMoniker": "lms\\Student\\studentClassroom.aspx",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\studentClassroom.aspx*",
+              "RelativeToolTip": "lms\\Student\\studentClassroom.aspx*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T03:00:04.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "classroomMasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\classroomMasterPage.Master",
+              "RelativeDocumentMoniker": "lms\\Student\\classroomMasterPage.Master",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Student\\classroomMasterPage.Master*",
+              "RelativeToolTip": "lms\\Student\\classroomMasterPage.Master*",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T02:59:40.457Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Classwork.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\Classwork.aspx.cs",
+              "RelativeDocumentMoniker": "lms\\Professor\\Classwork.aspx.cs",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\Classwork.aspx.cs",
+              "RelativeToolTip": "lms\\Professor\\Classwork.aspx.cs",
+              "ViewState": "AQIAAC4AAAAAAAAAAAAQwNEAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:38:56.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "classroomMasterPage.css",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\CSS\\ProfessorCSS\\classroomMasterPage.css",
+              "RelativeDocumentMoniker": "lms\\CSS\\ProfessorCSS\\classroomMasterPage.css",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\CSS\\ProfessorCSS\\classroomMasterPage.css",
+              "RelativeToolTip": "lms\\CSS\\ProfessorCSS\\classroomMasterPage.css",
+              "ViewState": "AQIAAN8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-05-02T03:18:44.285Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Classwork.aspx",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\Classwork.aspx",
+              "RelativeDocumentMoniker": "lms\\Professor\\Classwork.aspx",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\Classwork.aspx",
+              "RelativeToolTip": "lms\\Professor\\Classwork.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T02:37:08.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentInvite.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\StudentInvite.aspx.cs",
+              "RelativeDocumentMoniker": "lms\\Professor\\StudentInvite.aspx.cs",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\StudentInvite.aspx.cs",
+              "RelativeToolTip": "lms\\Professor\\StudentInvite.aspx.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAAAIwI0AAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T02:31:53.553Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "professorMasterPage.Master",
+              "DocumentMoniker": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\professorMasterPage.Master",
+              "RelativeDocumentMoniker": "lms\\Professor\\professorMasterPage.Master",
+              "ToolTip": "C:\\Users\\ianqu\\Source\\Repos\\ILE-MAINZ\\lms\\Professor\\professorMasterPage.Master",
+              "RelativeToolTip": "lms\\Professor\\professorMasterPage.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-05-02T02:30:36.68Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

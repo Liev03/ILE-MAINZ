@@ -13,6 +13,7 @@
     <link rel="stylesheet" href="../CSS/ProfessorCSS/pedingInvite.css" />
     <link href="../CSS/ProfessorCSS/announcement.css" rel="stylesheet" />
 
+
 </head>
 <body>
     <form id="form1" runat="server">
@@ -36,8 +37,22 @@
                         <a href="/Account/Logout.aspx"><i class="fas fa-sign-out-alt"></i>Logout</a>
 
                     </div>
-                </div>
+                <div id="noti_Container">
+    <div id="noti_Counter">7</div>
+    <button id="noti_Button"><i class="fas fa-bell"></i></button>
+    <div id="notifications">
+      <h3>Notifications</h3>
+      <ul>
+        <!-- Example notification items -->
+        <li>Notification 1</li>
+        <li>Notification 2</li>
+        <li>Notification 3</li>
+      </ul>
+      <div class="seeAll"><a href="#">See All</a></div>
+    </div>
+  </div>
             </div>
+                </div>
         </header>
         <div class="container">
             <div class="side-bar">
@@ -294,5 +309,23 @@
             }
         });
     </script>
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.1/jquery.min.js"></script>
+  <script>
+      $(document).ready(function () {
+          $('#noti_Button').click(function () {
+              $('#notifications').fadeToggle('fast', 'linear');
+              $('#noti_Counter').fadeOut('slow');
+              return false;
+          });
+
+          $(document).click(function () {
+              $('#notifications').hide();
+          });
+
+          $('#notifications').click(function (e) {
+              e.stopPropagation();
+          });
+      });
+  </script>
 </body>
 </html>
