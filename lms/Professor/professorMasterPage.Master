@@ -66,10 +66,7 @@
                    <a href="notifications.aspx"><i class="fas fa-bell"></i>Notifications</a>
                     
               </div>
-              <div class="item">
-                     <a href="WriteEmail.aspx" class="sub-btn"><i class="fas fa-envelope"></i> Write Email</a>
-    
-                 </div>
+
               <div class="item">
                   <a href="archiveClass.aspx" class="sub-btn"><i class="fa fa-archive" aria-hidden="true"></i> Archive Classes</a>
     

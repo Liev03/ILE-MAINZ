@@ -30,7 +30,7 @@
                 </div>
                 <div class="container">
                     <label for="uname"><b>Email</b></label>
-                    <asp:TextBox ID="txtemail" placeholder="Enter Email" runat="server"></asp:TextBox>
+                    <asp:TextBox ID="txtemail" placeholder="Enter Email" runat="server" AutoCompleteType="Disabled"></asp:TextBox>
                     <asp:RequiredFieldValidator ID="emailValidator" runat="server" ErrorMessage=" * Email is Required" ControlToValidate="txtemail" CssClass="required"></asp:RequiredFieldValidator>
                     <br />
                     <label for="psw"><b>Password</b></label>

@@ -59,9 +59,7 @@
   <div class="item">
        <a href='People.aspx?roomid=<%= Request.QueryString["roomid"] %>' class="sub-btn-active"><span><i class="fas fa-users"></i>People</span></a>
  </div>
-  <div class="item">
-     <a href='writeEmail.aspx?roomid=<%= Request.QueryString["roomid"] %>' class="sub-btn-active"><span><i class="fas fa-envelope"></i>Write Email</span></a>
-</div>
+
 
  <div class="item">
      <a href="classSubjects.aspx" class="sub-btn-active"><span><i class="fas fa-sign-out-alt"></i>Exit</span></a>
