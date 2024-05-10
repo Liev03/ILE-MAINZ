@@ -93,5 +93,39 @@ namespace lms.Student
 
             return null;
         }
+
+        private void DisplayFileDetailsInTextBox(string materialsid)
+        {
+            string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["MySqlConnection"].ConnectionString;
+
+            using (MySqlConnection connection = new MySqlConnection(connectionString))
+            {
+                string query = "SELECT FileName, duedate FROM learningmaterials WHERE materialsid = @materialsid";
+
+                using (MySqlCommand cmd = new MySqlCommand(query, connection))
+                {
+                    cmd.Parameters.AddWithValue("@materialsid", materialsid);
+                    connection.Open();
+
+                    using (MySqlDataReader reader = cmd.ExecuteReader())
+                    {
+                        if (reader.Read())
+                        {
+                            string fileName = reader["FileName"].ToString();
+                            string dueDate = reader["duedate"].ToString();
+
+                            
+                            string fileDetails = $"File Name: {fileName}\nDue Date: {dueDate}";
+
+                            
+                            TB_duedate.Text = fileDetails;
+                        }
+                    }
+                }
+            }
+        }
+
+
     }
+
 }

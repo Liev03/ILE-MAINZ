@@ -240,13 +240,8 @@ color:#000;
     align-items: first baseline;
 }
 
-.dropdown-item {
-     /* Adjust margin as needed */
-    margin-bottom 100px;
-}
-
-    .dropdown-item select {
-        width: 1100px; /* Adjust width as needed */
+    .TB_deadline input [type=text] {
+        width: 1100px; 
         padding: 8px;
         border: 1px solid #ccc;
         border-radius: 4px;
