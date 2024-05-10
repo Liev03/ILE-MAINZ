@@ -75,7 +75,15 @@
     <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
     </asp:ContentPlaceHolder>
 
-    <asp:TextBox ID="TB_duedate" runat="server" Width="1100px" padding="8px" border="1px solid #ccc" border-radius="4px" box-sizing= "border-box" AutoPostBack="True" Height="30px" ReadOnly="True"></asp:TextBox>
+    <!-- Dropdown List -->
+    <div class="dropdown-item">
+        <select>
+            <option value="deadline">Deadline</option>
+            <option value=""></option>
+            <option value=""></option>
+            <option value=""></option>
+        </select>
+    </div>
 </main>
             <asp:ContentPlaceHolder ID="body" runat="server">
             </asp:ContentPlaceHolder>
