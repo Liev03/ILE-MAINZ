@@ -120,69 +120,7 @@ namespace lms.Professor
                 return $"editClasswork.aspx?materialsid={materialsId}&roomid={roomId}";
             }
 
-            return "#";
-        }
-        private void GenerateNotificationsForStudents(string posttype, string materialsname, int roomId)
-        {
-            string notificationSubject = "New " + posttype + " " + materialsname + " in Room " + roomId;
-            string notifmessage = "A new " + posttype + " named " + materialsname + " has been posted.";
-
-            DateTime datePosted = DateTime.Now;
-
-            string connectionString = System.Configuration.ConfigurationManager.ConnectionStrings["MySqlConnection"].ConnectionString;
-            using (MySqlConnection con = new MySqlConnection(connectionString))
-            {
-                try
-                {
-                    con.Open();
-
-                    List<string> enrolledStudents = GetEnrolledStudentsForCurrentRoom(con);
-
-                    string query = "INSERT INTO lmsnotification (sender, receiver, subject, message, date) " +
-                                   "VALUES (@sender, @receiver, @subject, @message, @date)";
-                    foreach (string studentEmail in enrolledStudents)
-                    {
-                        using (MySqlCommand cmd = new MySqlCommand(query, con))
-                        {
-                            cmd.Parameters.AddWithValue("@sender", Session["LoggedInUserEmail"].ToString());
-                            cmd.Parameters.AddWithValue("@receiver", studentEmail);
-                            cmd.Parameters.AddWithValue("@subject", notificationSubject);
-                            cmd.Parameters.AddWithValue("@message", notifmessage);
-                            cmd.Parameters.AddWithValue("@date", datePosted);
-
-                            cmd.ExecuteNonQuery();
-                        }
-                    }
-                }
-                catch (Exception ex)
-                {
-                    
-                }
-            }
-        }
-
-        private List<string> GetEnrolledStudentsForCurrentRoom(MySqlConnection con)
-        {
-            List<string> enrolledStudents = new List<string>();
-
-            if (!string.IsNullOrEmpty(Request.QueryString["roomid"]) && int.TryParse(Request.QueryString["roomid"], out int roomId))
-            {
-                string query = "SELECT studentemail FROM invitation WHERE roomid = @roomid AND status = 'Accepted'";
-                using (MySqlCommand command = new MySqlCommand(query, con))
-                {
-                    command.Parameters.AddWithValue("@roomid", roomId);
-                    using (MySqlDataReader reader = command.ExecuteReader())
-                    {
-                        while (reader.Read())
-                        {
-                            string studentEmail = reader["studentemail"].ToString();
-                            enrolledStudents.Add(studentEmail);
-                        }
-                    }
-                }
-            }
-
-            return enrolledStudents;
+            return "#"; // Or any default URL if the data is not available
         }
         protected void btncreate_Click(object sender, EventArgs e)
         {
@@ -266,10 +204,10 @@ namespace lms.Professor
                                             commandInsert.Parameters.AddWithValue("@instructions", instructions);
                                             commandInsert.Parameters.AddWithValue("@posttype", posttype);
                                             commandInsert.Parameters.AddWithValue("@points", points);
-
-
-                                            commandInsert.Parameters.AddWithValue("@duedate", duedate);
-
+                                         
+                                            
+                                                commandInsert.Parameters.AddWithValue("@duedate", duedate);
+                                            
                                             commandInsert.Parameters.AddWithValue("@topic", topic);
                                             commandInsert.Parameters.AddWithValue("@fileName", fileName);
                                             commandInsert.Parameters.AddWithValue("@fileType", fileType);
@@ -283,7 +221,6 @@ namespace lms.Professor
                                             commandInsert.ExecuteNonQuery();
 
                                             ShowSuccessMessage("Your Materials have been successfully posted");
-                                            GenerateNotificationsForStudents(posttype, materialsname, roomId);
                                         }
 
                                         ClientScript.RegisterStartupScript(this.GetType(), "successMessage", "showSuccessMessage();", true);
@@ -330,7 +267,6 @@ namespace lms.Professor
                                             commandInsert.ExecuteNonQuery();
 
                                             ShowSuccessMessage("Your Materials have been successfully posted");
-                                            GenerateNotificationsForStudents(posttype, materialsname, roomId);
                                         }
 
                                         ClientScript.RegisterStartupScript(this.GetType(), "successMessage", "showSuccessMessage();", true);
